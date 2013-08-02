@@ -42,6 +42,10 @@
                         "type": "number"
                     },
                     {
+                        "id": "text_on_sign",
+                        "description": "Text on the traffic sign",
+                        "type": "string"
+                    },
                     {
                         "id": "code",
                         "description": "Belgian traffic sign code",
@@ -71,6 +75,11 @@
                         "id": "facing",
                         "description": "Wind direction in which the traffic sign is facing",
                         "type": "string",
+                    },
+                    {
+                        "id": "text_below_sign",
+                        "description": "Text on the sub sign",
+                        "type": "string"
                     },
                     {
                         "id": "code_prefix",

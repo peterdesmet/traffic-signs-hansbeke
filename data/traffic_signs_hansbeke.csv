@@ -1,4 +1,4 @@
-cartodb_id,details,code,created_at,updated_at,verified,street,facing,details_additional,code_prefix,longitude,latitude,geojson
+cartodb_id,text_on_sign,code,created_at,updated_at,verified,street,facing,text_below_sign,code_prefix,longitude_0,latitude_0,geojson
 1,,B17,2012-11-16 15:12:21.755981,2012-12-13 21:57:10.510296,true,Reibroekstraat,W,,B,3.522875,51.070292,"{""type"":""Point"",""coordinates"":[3.52287,51.07029]}"
 2,"Hansbeke, Nevele",F1,2012-11-16 17:39:28.94727,2012-12-13 21:57:10.510296,true,Reibroekstraat,W,,F,3.523592,51.070242,"{""type"":""Point"",""coordinates"":[3.52359,51.07024]}"
 3,"3,5t",C21,2012-11-16 17:39:33.104682,2012-12-13 21:57:10.510296,true,Driesstraat,N,Uitgezonderd plaatselijk verkeer,C,3.523417,51.070185,"{""type"":""Point"",""coordinates"":[3.52342,51.07019]}"
