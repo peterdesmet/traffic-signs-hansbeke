@@ -49,6 +49,7 @@
                     {
                         "id": "code",
                         "description": "Belgian traffic sign code",
+                        "url": "http://wiki.openstreetmap.org/wiki/Road_signs_in_Belgium",
                         "type": "string"
                     },
                     {
@@ -75,6 +76,7 @@
                         "id": "facing",
                         "description": "Wind direction in which the traffic sign is facing",
                         "type": "string",
+                        "values": ["N","E","S","W"]
                     },
                     {
                         "id": "text_below_sign",
@@ -85,6 +87,7 @@
                         "id": "code_prefix",
                         "description": "First character of Belgian traffic sign code, indicating the type of traffic sign",
                         "type": "string",
+                        "values": ["A","B","C","D","E","F",""]
                     },
                     {
                         "id": "longitude",
