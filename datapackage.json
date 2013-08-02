@@ -23,6 +23,12 @@
             "web": "http://peterdesmet.com"
         }
     ],
+    "maintainers": [
+        {
+            "name": "Peter Desmet",
+            "web": "http://peterdesmet.com"        
+        }
+    ],
     "resources": [
         {
             "path": "data/traffic_signs_hansbeke.csv",
