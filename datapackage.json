@@ -1,0 +1,8 @@
+{
+    "name": "traffic-signs-hansbeke",
+    "resources": [
+        {
+            "path": "data/traffic_signs_hansbeke.csv",
+        }
+    ]
+}
