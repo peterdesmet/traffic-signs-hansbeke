@@ -1,4 +1,4 @@
-# All traffic signs of Hansbeke, Belgium
+# Traffic signs of Hansbeke, Belgium
 
 ## Introduction
 
