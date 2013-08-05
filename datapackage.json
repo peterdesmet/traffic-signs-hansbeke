@@ -49,7 +49,7 @@
                     {
                         "id": "code",
                         "description": "Belgian traffic sign code",
-                        "url": "http://wiki.openstreetmap.org/wiki/Road_signs_in_Belgium",
+                        "web": "http://wiki.openstreetmap.org/wiki/Road_signs_in_Belgium",
                         "type": "string"
                     },
                     {
