@@ -9,7 +9,7 @@
         "Nevele",
         "Belgium"
     ],
-    "last_modified": "2013-08-02",
+    "last_modified": "2013-08-05",
     "datapackage_version": "1.0-beta",
     "licenses": [
         {
@@ -107,6 +107,11 @@
                     }
                 ]
             }
+        },
+        {
+            "path": "data/traffic_signs_hansbeke.geojson",
+            "name": "traffic_signs_hansbeke.geojson",
+            "format": "geojson"
         }
     ]
 }
