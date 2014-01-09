@@ -20,4 +20,4 @@ The data are exported from CartoDB - where I maintain the data - and versioned o
 
 ## Licence
 
-The data are released to the public domain under [Creative Commons Zero (CC0)](http://creativecommons.org/publicdomain/zero/1.0/), meaning you don't need any permission to use these. Contributions and feedback are always welcome though. You can reach me via [Twitter](https://twitter.com/peterdesmet).
+The data are released to the public domain under [Creative Commons Zero (CC0)](http://creativecommons.org/publicdomain/zero/1.0/) ([LICENSE](/LICENSE)), meaning you don't need any permission to use these. Contributions and feedback are always welcome though.
