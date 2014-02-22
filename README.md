@@ -8,7 +8,7 @@ This geospatial dataset contains all traffic signs of [Hansbeke](https://en.wiki
 
 In my professional life, I standardize and publish datasets created by others, and try to convince them to publish these under an open license. The goal of this project was to collect data myself and do the same.
 
-I am well aware this dataset is completely pointless (I was very bored when I started this), but in the meantime, I learned to use [CartoDB](http://cartodb.com), Git, GitHub, and [Data Packages](http://data.okfn.org/standards/data-package). Also, it involved walking, which is healthy.
+I am well aware this dataset is completely pointless (I was very bored when I started this), but in the meantime, I learned to use [CartoDB](http://cartodb.com), Git, GitHub, and [Data Packages](http://data.okfn.org/standards/data-package). It also involved walking, which is healthy.
 
 ## Dataset
 
@@ -22,4 +22,4 @@ The data are exported from CartoDB - where I maintain the data - and versioned o
 
 ## Licence
 
-The data are released to the public domain under [Creative Commons Zero (CC0)
+The data are released to the public domain under [Creative Commons Zero (CC0)](http://creativecommons.org/publicdomain/zero/1.0/) ([LICENSE](/LICENSE)).
