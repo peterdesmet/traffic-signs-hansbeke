@@ -1,7 +1,7 @@
 {
     "name": "traffic-signs-hansbeke",
-    "title": "Traffic signs of Hansbeke, Belgium",
-    "description": "Geospatial dataset of all traffic signs of Hansbeke, Nevele, Belgium",
+    "title": "Traffic signs of Hansbeke, Nevele, Belgium",
+    "description": "Geospatial dataset of all traffic signs of Hansbeke, Nevele, Belgium. See https://github.com/peterdesmet/traffic-signs-hansbeke for more information.",
     "keywords": [
         "traffic signs",
         "geospatial",
@@ -9,8 +9,8 @@
         "Nevele",
         "Belgium"
     ],
-    "last_modified": "2013-08-02",
-    "datapackage_version": "1.0-beta",
+    "last_modified": "2014-02-22",
+    "datapackage_version": "1.0-beta.7",
     "licenses": [
         {
             "id": "cc-zero",
