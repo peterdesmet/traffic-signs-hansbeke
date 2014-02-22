@@ -20,6 +20,12 @@ This repository is a [Data Package](http://data.okfn.org/standards/data-package)
 
 The data are exported from CartoDB - where I maintain the data - and versioned on [GitHub](https://github.com/peterdesmet/traffic-signs-hansbeke) each time significant changes are made. On CartoDB, you can view the [data on a map](http://cdb.io/15m1c5z) or [download these](http://peterdesmet.cartodb.com/tables/1287/public#/table) in additional formats: `csv`, `shp`, `kml`, `svg` and `geojson`.
 
+## Run sort script
+
+As the export from CartoDB does not guarantee the same order, you can sort the file on the `cartodb_id` with [sort.sh](scripts/sort.sh):
+
+    scripts/sort.sh data/traffic_signs_hansbeke.csv
+
 ## Licence
 
 The data are released to the public domain under [Creative Commons Zero (CC0)](http://creativecommons.org/publicdomain/zero/1.0/) ([LICENSE](/LICENSE)).
