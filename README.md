@@ -8,11 +8,11 @@ This geospatial dataset contains all traffic signs of [Hansbeke](https://en.wiki
 
 In my professional life, I standardize and publish datasets created by others, and try to convince them to publish these under an open license. The goal of this project was to collect data myself and do the same.
 
-I am well aware this dataset is completely pointless (I was very bored when I started this), but in the meantime, I learned to use [CartoDB](http://cartodb.com), Git, GitHub, and [Data Packages](http://www.dataprotocols.org/en/latest/data-packages.html). Also, it involved walking, which is healthy.
+I am well aware this dataset is completely pointless (I was very bored when I started this), but in the meantime, I learned to use [CartoDB](http://cartodb.com), Git, GitHub, and [Data Packages](http://data.okfn.org/standards/data-package). Also, it involved walking, which is healthy.
 
 ## Dataset
 
-This repository is a [Data Package](http://www.dataprotocols.org/en/latest/data-packages.html). It contains:
+This repository is a [Data Package](http://data.okfn.org/standards/data-package). It contains:
 
 1. [traffic_signs_hansbeke.csv](data/traffic_signs_hansbeke.csv): the **data** as a CSV file, sorted on `cartodb_id`.
 2. [datapackage.json](datapackage.json): a **metadata** file describing the dataset, including the license and field definitions.
@@ -22,4 +22,4 @@ The data are exported from CartoDB - where I maintain the data - and versioned o
 
 ## Licence
 
-The data are released to the public domain under [Creative Commons Zero (CC0)](http://creativecommons.org/publicdomain/zero/1.0/) ([LICENSE](/LICENSE)), meaning you don't need my permission to use these. Contributions and feedback are always welcome though.
+The data are released to the public domain under [Creative Commons Zero (CC0)
