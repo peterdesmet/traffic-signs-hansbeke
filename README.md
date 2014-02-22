@@ -6,11 +6,13 @@ This geospatial dataset contains all traffic signs of [Hansbeke](https://en.wiki
 
 ## Rationale
 
-In my professional life, I standardize and publish datasets created by others, and try to convince them to publish these under an open license. The goal of this project was to collect data myself and do the same. I am well aware this dataset is completely pointless (I was very bored when I started this), but in the meantime, I learned to use [CartoDB](http://cartodb.com), Git, GitHub, and [Data Packages](http://www.dataprotocols.org/en/latest/data-packages.html). Also, it involved walking, which is healthy.
+In my professional life, I standardize and publish datasets created by others, and try to convince them to publish these under an open license. The goal of this project was to collect data myself and do the same.
+
+I am well aware this dataset is completely pointless (I was very bored when I started this), but in the meantime, I learned to use [CartoDB](http://cartodb.com), Git, GitHub, and [Data Packages](http://data.okfn.org/standards/data-package). It also involved walking, which is healthy.
 
 ## Dataset
 
-This repository is a [Data Package](http://www.dataprotocols.org/en/latest/data-packages.html). It contains:
+This repository is a [Data Package](http://data.okfn.org/standards/data-package). It contains:
 
 1. [traffic_signs_hansbeke.csv](data/traffic_signs_hansbeke.csv): the **data** as a CSV file, sorted on `cartodb_id`.
 2. [datapackage.json](datapackage.json): a **metadata** file describing the dataset, including the license and field definitions.
@@ -18,6 +20,12 @@ This repository is a [Data Package](http://www.dataprotocols.org/en/latest/data-
 
 The data are exported from CartoDB - where I maintain the data - and versioned on [GitHub](https://github.com/peterdesmet/traffic-signs-hansbeke) each time significant changes are made. On CartoDB, you can view the [data on a map](http://cdb.io/15m1c5z) or [download these](http://peterdesmet.cartodb.com/tables/1287/public#/table) in additional formats: `csv`, `shp`, `kml`, `svg` and `geojson`.
 
+## Run sort script
+
+As the export from CartoDB does not guarantee the same order, you can sort the file on the `cartodb_id` with [sort.sh](scripts/sort.sh):
+
+    scripts/sort.sh data/traffic_signs_hansbeke.csv
+
 ## Licence
 
-The data are released to the public domain under [Creative Commons Zero (CC0)](http://creativecommons.org/publicdomain/zero/1.0/), meaning you don't need any permission to use these. Contributions and feedback are always welcome though. You can reach me via [Twitter](https://twitter.com/peterdesmet).
+The data are released to the public domain under [Creative Commons Zero (CC0)](http://creativecommons.org/publicdomain/zero/1.0/) ([LICENSE](/LICENSE)).
