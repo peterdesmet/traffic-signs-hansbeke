@@ -15,7 +15,7 @@
                 "text_below_sign": "Uitgezonderd dienstvoertuigen",
                 "code_prefix": "C"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.535935,51.073934]
             }
@@ -34,7 +34,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.532084,51.06172]
             }
@@ -53,7 +53,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.514618,51.061322]
             }
@@ -72,7 +72,7 @@
                 "text_below_sign": "Uitgezonderd plaatselijk verkeer",
                 "code_prefix": "C"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.523417,51.070185]
             }
@@ -91,7 +91,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates": [3.519524,51.06074]
             }
@@ -110,7 +110,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.545474,51069553]
             }
@@ -129,7 +129,7 @@
                 "text_below_sign": "Verkeerstafel 250m",
                 "code_prefix": "A"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.547951,51069216]
             }
@@ -148,7 +148,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.519524,5106074]
             }
@@ -167,7 +167,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.5365,5106818]
             }
@@ -186,7 +186,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53591,5107394]
             }
@@ -205,7 +205,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.54624,51069411]
             }
@@ -224,7 +224,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.535878,51073985]
             }
@@ -243,7 +243,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53591,5107394]
             }
@@ -262,7 +262,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.55188,51070011]
             }
@@ -281,7 +281,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.54427,5107155]
             }
@@ -300,7 +300,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.547484,5107024]
             }
@@ -319,7 +319,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.542283,51069173]
             }
@@ -338,7 +338,7 @@
                 "text_below_sign": "150 m",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.547152,51069765]
             }
@@ -357,7 +357,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.54433,5107158]
             }
@@ -376,7 +376,7 @@
                 "text_below_sign": "150m",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.55167,5107]
             }
@@ -395,7 +395,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.551462,51069967]
             }
@@ -414,7 +414,7 @@
                 "text_below_sign": "",
                 "code_prefix": "D"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53158,5106144]
             }
@@ -433,7 +433,7 @@
                 "text_below_sign": "",
                 "code_prefix": ""
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.519824,51060339]
             }
@@ -452,7 +452,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53576,5107388]
             }
@@ -471,7 +471,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.546851,51069659]
             }
@@ -490,7 +490,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.55399,5107132]
             }
@@ -509,7 +509,7 @@
                 "text_below_sign": "",
                 "code_prefix": "C"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.551993,51069848]
             }
@@ -528,7 +528,7 @@
                 "text_below_sign": "Uitgezonderd aangelanden",
                 "code_prefix": "C"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.552873,51072649]
             }
@@ -547,7 +547,7 @@
                 "text_below_sign": "",
                 "code_prefix": "C"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.55429,5107141]
             }
@@ -566,7 +566,7 @@
                 "text_below_sign": "",
                 "code_prefix": "C"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.55167,5107]
             }
@@ -585,7 +585,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.55204,5106992]
             }
@@ -604,7 +604,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.54252,51070073]
             }
@@ -623,7 +623,7 @@
                 "text_below_sign": "",
                 "code_prefix": "C"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.544555,51071402]
             }
@@ -642,7 +642,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.512613,51081396]
             }
@@ -661,7 +661,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53541,5107389]
             }
@@ -680,7 +680,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.535935,51073934]
             }
@@ -699,7 +699,7 @@
                 "text_below_sign": "",
                 "code_prefix": ""
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.546664,51092972]
             }
@@ -718,7 +718,7 @@
                 "text_below_sign": "Uitgezonderd plaatselijk verkeer",
                 "code_prefix": "C"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53573,5107394]
             }
@@ -737,7 +737,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.535878,51073985]
             }
@@ -756,7 +756,7 @@
                 "text_below_sign": "Uitgezonderd Ceremonie wagens; E0b",
                 "code_prefix": "E"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.535583,51074828]
             }
@@ -775,7 +775,7 @@
                 "text_below_sign": "",
                 "code_prefix": "A"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53559,5107477]
             }
@@ -794,7 +794,7 @@
                 "text_below_sign": "",
                 "code_prefix": "C"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.54858,5107075]
             }
@@ -813,7 +813,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.54858,5107075]
             }
@@ -832,7 +832,7 @@
                 "text_below_sign": "",
                 "code_prefix": "A"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.542491,51066528]
             }
@@ -851,7 +851,7 @@
                 "text_below_sign": "",
                 "code_prefix": "A"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53469,51076272]
             }
@@ -870,7 +870,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53469,51076272]
             }
@@ -889,7 +889,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.525353,51090367]
             }
@@ -908,7 +908,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53539,5107552]
             }
@@ -927,7 +927,7 @@
                 "text_below_sign": "",
                 "code_prefix": "C"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.54427,5107155]
             }
@@ -946,7 +946,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.532176,5106143]
             }
@@ -965,7 +965,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53808,5107751]
             }
@@ -984,7 +984,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.54864,5107074]
             }
@@ -1003,7 +1003,7 @@
                 "text_below_sign": "",
                 "code_prefix": "A"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.542769,51070272]
             }
@@ -1022,7 +1022,7 @@
                 "text_below_sign": "",
                 "code_prefix": "C"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.546508,5109281]
             }
@@ -1041,7 +1041,7 @@
                 "text_below_sign": "",
                 "code_prefix": "D"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.525364,51090334]
             }
@@ -1060,7 +1060,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53517,5107647]
             }
@@ -1079,7 +1079,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.531917,51061582]
             }
@@ -1098,7 +1098,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.549016,51070528]
             }
@@ -1117,7 +1117,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.547388,51069094]
             }
@@ -1136,7 +1136,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.546183,51069345]
             }
@@ -1155,7 +1155,7 @@
                 "text_below_sign": "Uitgezonderd dienstvoertuigen; Uitgezonderd fietsers",
                 "code_prefix": "C"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53635,5107384]
             }
@@ -1174,7 +1174,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.534486,51073369]
             }
@@ -1193,7 +1193,7 @@
                 "text_below_sign": "M2",
                 "code_prefix": "C"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.534674,51074859]
             }
@@ -1212,7 +1212,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.544555,51071402]
             }
@@ -1231,7 +1231,7 @@
                 "text_below_sign": "M10",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53576,51066633]
             }
@@ -1250,7 +1250,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53566,5107496]
             }
@@ -1269,7 +1269,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.512127,51064222]
             }
@@ -1288,7 +1288,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.532901,51062819]
             }
@@ -1307,7 +1307,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.512127,51064222]
             }
@@ -1326,7 +1326,7 @@
                 "text_below_sign": "Uitgezonderd plaatselijk verkeer",
                 "code_prefix": "C"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.54325,5106742]
             }
@@ -1345,7 +1345,7 @@
                 "text_below_sign": "Verkeerstafel 50m",
                 "code_prefix": "A"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.547401,51069969]
             }
@@ -1364,7 +1364,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.542117,51070434]
             }
@@ -1383,7 +1383,7 @@
                 "text_below_sign": "",
                 "code_prefix": "A"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53517,5107647]
             }
@@ -1402,7 +1402,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.542383,51069122]
             }
@@ -1421,7 +1421,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.535125,51076323]
             }
@@ -1440,7 +1440,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.535349,51076285]
             }
@@ -1459,7 +1459,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53592,5107384]
             }
@@ -1478,7 +1478,7 @@
                 "text_below_sign": "",
                 "code_prefix": "A"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.55545,510717]
             }
@@ -1497,7 +1497,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.541361,51070812]
             }
@@ -1516,7 +1516,7 @@
                 "text_below_sign": "150m",
                 "code_prefix": "A"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.556373,51069898]
             }
@@ -1535,7 +1535,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.535956,51073838]
             }
@@ -1554,7 +1554,7 @@
                 "text_below_sign": "Uitgezonderd Ceremonie wagens; E0a",
                 "code_prefix": "E"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.535547,51074949]
             }
@@ -1573,7 +1573,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.535868,51073016]
             }
@@ -1592,7 +1592,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.535526,51074976]
             }
@@ -1611,7 +1611,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.535868,51073016]
             }
@@ -1630,7 +1630,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53554,51075]
             }
@@ -1649,7 +1649,7 @@
                 "text_below_sign": "Uitgezonderd plaatselijk verkeer",
                 "code_prefix": "C"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.5351,5107637]
             }
@@ -1668,7 +1668,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.525353,51090367]
             }
@@ -1687,7 +1687,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.535349,51076285]
             }
@@ -1706,7 +1706,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53638,5107056]
             }
@@ -1725,7 +1725,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.535304,5107648]
             }
@@ -1744,7 +1744,7 @@
                 "text_below_sign": "",
                 "code_prefix": "A"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.534387,51088423]
             }
@@ -1763,7 +1763,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.539867,51069521]
             }
@@ -1782,7 +1782,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.535301,51076772]
             }
@@ -1801,7 +1801,7 @@
                 "text_below_sign": "",
                 "code_prefix": ""
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.540411,51070196]
             }
@@ -1820,7 +1820,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.54124,5107047]
             }
@@ -1839,7 +1839,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.542426,5107065]
             }
@@ -1858,7 +1858,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.542536,51070414]
             }
@@ -1877,7 +1877,7 @@
                 "text_below_sign": "",
                 "code_prefix": ""
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.542428,51070143]
             }
@@ -1896,7 +1896,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.549473,51070515]
             }
@@ -1915,7 +1915,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.55545,510717]
             }
@@ -1934,7 +1934,7 @@
                 "text_below_sign": "",
                 "code_prefix": "C"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.55545,510717]
             }
@@ -1953,7 +1953,7 @@
                 "text_below_sign": "",
                 "code_prefix": ""
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.54968,5107042]
             }
@@ -1972,7 +1972,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.55515,5107168]
             }
@@ -1991,7 +1991,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.531917,51061582]
             }
@@ -2010,7 +2010,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.542117,51070434]
             }
@@ -2029,7 +2029,7 @@
                 "text_below_sign": "",
                 "code_prefix": ""
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53825,5107584]
             }
@@ -2048,7 +2048,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.542117,51070434]
             }
@@ -2067,7 +2067,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.542117,51070434]
             }
@@ -2086,7 +2086,7 @@
                 "text_below_sign": "150 m",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.534289,5106134]
             }
@@ -2105,7 +2105,7 @@
                 "text_below_sign": "Uitgezonderd plaatselijk verkeer; M3",
                 "code_prefix": "C"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.533668,51071546]
             }
@@ -2124,7 +2124,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.547715,51070025]
             }
@@ -2143,7 +2143,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53537,5107615]
             }
@@ -2162,7 +2162,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.54634,5106938]
             }
@@ -2181,7 +2181,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.535868,51073016]
             }
@@ -2200,7 +2200,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.555367,51071624]
             }
@@ -2219,7 +2219,7 @@
                 "text_below_sign": "",
                 "code_prefix": "C"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.548742,51070591]
             }
@@ -2238,7 +2238,7 @@
                 "text_below_sign": "",
                 "code_prefix": "D"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.5312,5108427]
             }
@@ -2257,7 +2257,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53576,5107398]
             }
@@ -2276,7 +2276,7 @@
                 "text_below_sign": "50 m",
                 "code_prefix": "A"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.548742,51070591]
             }
@@ -2295,7 +2295,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.541456,5107213]
             }
@@ -2314,7 +2314,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.541559,5106261]
             }
@@ -2333,7 +2333,7 @@
                 "text_below_sign": "Uitgezonderd aangelanden",
                 "code_prefix": "C"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.548836,51070818]
             }
@@ -2352,7 +2352,7 @@
                 "text_below_sign": "",
                 "code_prefix": ""
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.549458,51070418]
             }
@@ -2371,7 +2371,7 @@
                 "text_below_sign": "",
                 "code_prefix": "A"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.54572,51067992]
             }
@@ -2390,7 +2390,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.54874,5107059]
             }
@@ -2409,7 +2409,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.540645,51064292]
             }
@@ -2428,7 +2428,7 @@
                 "text_below_sign": "",
                 "code_prefix": "C"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.55515,5107168]
             }
@@ -2447,7 +2447,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53691,5107316]
             }
@@ -2466,7 +2466,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.54635,5106938]
             }
@@ -2485,7 +2485,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.54635,5106938]
             }
@@ -2504,7 +2504,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.535868,51073016]
             }
@@ -2523,7 +2523,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53665,5107367]
             }
@@ -2542,7 +2542,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.535868,51073016]
             }
@@ -2561,7 +2561,7 @@
                 "text_below_sign": "Uitgezonderd fietsers",
                 "code_prefix": "C"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53266,5107592]
             }
@@ -2580,7 +2580,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.532084,5106172]
             }
@@ -2599,7 +2599,7 @@
                 "text_below_sign": "",
                 "code_prefix": ""
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53666,5106824]
             }
@@ -2618,7 +2618,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53524,5107619]
             }
@@ -2637,7 +2637,7 @@
                 "text_below_sign": "M2",
                 "code_prefix": "C"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.535535,51074977]
             }
@@ -2656,7 +2656,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53276,5107594]
             }
@@ -2675,7 +2675,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.535511,51075637]
             }
@@ -2694,7 +2694,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.535511,51075637]
             }
@@ -2713,7 +2713,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.535349,51076285]
             }
@@ -2732,7 +2732,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.535349,51076285]
             }
@@ -2751,7 +2751,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.535349,51076285]
             }
@@ -2770,7 +2770,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.535349,51076285]
             }
@@ -2789,7 +2789,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.535349,51076285]
             }
@@ -2808,7 +2808,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.535349,51076285]
             }
@@ -2827,7 +2827,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.535304,5107648]
             }
@@ -2846,7 +2846,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53592,5107348]
             }
@@ -2865,7 +2865,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.535248,51076822]
             }
@@ -2884,7 +2884,7 @@
                 "text_below_sign": "Uitgezonderd plaatselijk verkeer",
                 "code_prefix": "C"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.54238,51070555]
             }
@@ -2903,7 +2903,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.55429,5107141]
             }
@@ -2922,7 +2922,7 @@
                 "text_below_sign": "Uitgezonderd plaatselijk verkeer",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.531496,51061543]
             }
@@ -2941,7 +2941,7 @@
                 "text_below_sign": "Verkeerstafel 150m",
                 "code_prefix": "A"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.544832,51068251]
             }
@@ -2960,7 +2960,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.551208,5109344]
             }
@@ -2979,7 +2979,7 @@
                 "text_below_sign": "",
                 "code_prefix": "A"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.545086,51068371]
             }
@@ -2998,7 +2998,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.540645,51064292]
             }
@@ -3017,7 +3017,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.532176,5106143]
             }
@@ -3036,7 +3036,7 @@
                 "text_below_sign": "",
                 "code_prefix": "A"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.545662,5106872]
             }
@@ -3055,7 +3055,7 @@
                 "text_below_sign": "",
                 "code_prefix": "C"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.535782,51066805]
             }
@@ -3074,7 +3074,7 @@
                 "text_below_sign": "",
                 "code_prefix": "C"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.55452,5107141]
             }
@@ -3093,7 +3093,7 @@
                 "text_below_sign": "",
                 "code_prefix": "D"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.531953,51061565]
             }
@@ -3112,7 +3112,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53158,5106144]
             }
@@ -3131,7 +3131,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53684,510732]
             }
@@ -3150,7 +3150,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53072,5107417]
             }
@@ -3169,7 +3169,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.54975,5107045]
             }
@@ -3188,7 +3188,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.54772,51070141]
             }
@@ -3207,7 +3207,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.545853,51068762]
             }
@@ -3226,7 +3226,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.546341,51069382]
             }
@@ -3245,7 +3245,7 @@
                 "text_below_sign": "Uitgezonderd plaatselijk verkeer; M3",
                 "code_prefix": "C"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.531458,51071578]
             }
@@ -3264,7 +3264,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.535713,51073305]
             }
@@ -3283,7 +3283,7 @@
                 "text_below_sign": "Als je mijn plaats inneemt, neem dan ook mijn handicap over.",
                 "code_prefix": "E"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.536057,51073273]
             }
@@ -3302,7 +3302,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.532176,5106143]
             }
@@ -3321,7 +3321,7 @@
                 "text_below_sign": "Als je mijn plaats inneemt, neem dan ook mijn handicap over.",
                 "code_prefix": "E"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.536116,51073261]
             }
@@ -3340,7 +3340,7 @@
                 "text_below_sign": "",
                 "code_prefix": "C"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.54975,5107045]
             }
@@ -3359,7 +3359,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.532176,5106143]
             }
@@ -3378,7 +3378,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.54967,510704]
             }
@@ -3397,7 +3397,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.54962,5107033]
             }
@@ -3416,7 +3416,7 @@
                 "text_below_sign": "",
                 "code_prefix": "D"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.532327,51061686]
             }
@@ -3435,7 +3435,7 @@
                 "text_below_sign": "Uitgezonderd plaatselijk verkeer",
                 "code_prefix": "C"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.527049,51070997]
             }
@@ -3454,7 +3454,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.509854,51078669]
             }
@@ -3473,7 +3473,7 @@
                 "text_below_sign": "",
                 "code_prefix": "D"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53179,5106161]
             }
@@ -3492,7 +3492,7 @@
                 "text_below_sign": "75 m",
                 "code_prefix": "A"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53671,5107331]
             }
@@ -3511,7 +3511,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.530595,51074201]
             }
@@ -3530,7 +3530,7 @@
                 "text_below_sign": "E0d",
                 "code_prefix": "E"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.534602,51073345]
             }
@@ -3549,7 +3549,7 @@
                 "text_below_sign": "90 m",
                 "code_prefix": "A"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.534522,51073363]
             }
@@ -3568,7 +3568,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.530754,51074116]
             }
@@ -3587,7 +3587,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53588,51073519]
             }
@@ -3606,7 +3606,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.523487,510703]
             }
@@ -3625,7 +3625,7 @@
                 "text_below_sign": "E0d",
                 "code_prefix": "E"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.534632,5107339]
             }
@@ -3644,7 +3644,7 @@
                 "text_below_sign": "E0a",
                 "code_prefix": "E"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.535573,51073187]
             }
@@ -3663,7 +3663,7 @@
                 "text_below_sign": "",
                 "code_prefix": "A"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.535878,51073985]
             }
@@ -3682,7 +3682,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53194,5106157]
             }
@@ -3701,7 +3701,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.535915,51073448]
             }
@@ -3720,7 +3720,7 @@
                 "text_below_sign": "",
                 "code_prefix": "E"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.535984,51073472]
             }
@@ -3739,7 +3739,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53185,5106147]
             }
@@ -3758,7 +3758,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.535984,51073472]
             }
@@ -3777,7 +3777,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53182,51061499]
             }
@@ -3796,7 +3796,7 @@
                 "text_below_sign": "",
                 "code_prefix": "C"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53188,5106159]
             }
@@ -3815,7 +3815,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.535451,51074969]
             }
@@ -3834,7 +3834,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.535782,51066805]
             }
@@ -3853,7 +3853,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.554329,51071479]
             }
@@ -3872,7 +3872,7 @@
                 "text_below_sign": "Uitgezonderd plaatselijk verkeer",
                 "code_prefix": "C"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.524844,51066131]
             }
@@ -3891,7 +3891,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.523592,51070242]
             }
@@ -3910,7 +3910,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.526654,51071031]
             }
@@ -3929,7 +3929,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.527054,51070994]
             }
@@ -3948,7 +3948,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.527124,51071021]
             }
@@ -3967,7 +3967,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.532392,5107285]
             }
@@ -3986,7 +3986,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.535528,51073129]
             }
@@ -4005,7 +4005,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.529854,51071481]
             }
@@ -4024,7 +4024,7 @@
                 "text_below_sign": "E0b",
                 "code_prefix": "E"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.5337,5107359]
             }
@@ -4043,7 +4043,7 @@
                 "text_below_sign": "E0a",
                 "code_prefix": "E"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53369,5107353]
             }
@@ -4062,7 +4062,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.523554,51070094]
             }
@@ -4081,7 +4081,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.524844,5106628]
             }
@@ -4100,7 +4100,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.532453,5107309]
             }
@@ -4119,7 +4119,7 @@
                 "text_below_sign": "",
                 "code_prefix": "A"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.535844,51073143]
             }
@@ -4138,7 +4138,7 @@
                 "text_below_sign": "",
                 "code_prefix": "A"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.535844,51073131]
             }
@@ -4157,7 +4157,7 @@
                 "text_below_sign": "",
                 "code_prefix": "A"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.535696,51073168]
             }
@@ -4176,7 +4176,7 @@
                 "text_below_sign": "",
                 "code_prefix": "A"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.535881,51073257]
             }
@@ -4195,7 +4195,7 @@
                 "text_below_sign": "",
                 "code_prefix": "A"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.535718,51073286]
             }
@@ -4214,7 +4214,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.535852,51073089]
             }
@@ -4233,7 +4233,7 @@
                 "text_below_sign": "",
                 "code_prefix": ""
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.531295,51073928]
             }
@@ -4252,7 +4252,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.534757,51073271]
             }
@@ -4271,7 +4271,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.533674,51073599]
             }
@@ -4290,7 +4290,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.533674,51073599]
             }
@@ -4309,7 +4309,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.530949,51071555]
             }
@@ -4328,7 +4328,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.530949,51071555]
             }
@@ -4347,7 +4347,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.530426,51071547]
             }
@@ -4366,7 +4366,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.523436,51070301]
             }
@@ -4385,7 +4385,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.523436,51070301]
             }
@@ -4404,7 +4404,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.524831,51066072]
             }
@@ -4423,7 +4423,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.525163,51066028]
             }
@@ -4442,7 +4442,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.524873,51065821]
             }
@@ -4461,7 +4461,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.524326,51066034]
             }
@@ -4480,7 +4480,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.521904,5106662]
             }
@@ -4499,7 +4499,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.535473,51066355]
             }
@@ -4518,7 +4518,7 @@
                 "text_below_sign": "",
                 "code_prefix": "A"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.512417,51064254]
             }
@@ -4537,7 +4537,7 @@
                 "text_below_sign": "",
                 "code_prefix": "D"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.535483,51066327]
             }
@@ -4556,7 +4556,7 @@
                 "text_below_sign": "",
                 "code_prefix": "D"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.535782,51066805]
             }
@@ -4575,7 +4575,7 @@
                 "text_below_sign": "",
                 "code_prefix": "D"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.535473,51066355]
             }
@@ -4594,7 +4594,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.535347,51066451]
             }
@@ -4613,7 +4613,7 @@
                 "text_below_sign": "",
                 "code_prefix": "D"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.535304,51066384]
             }
@@ -4632,7 +4632,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.535278,51066359]
             }
@@ -4651,7 +4651,7 @@
                 "text_below_sign": "",
                 "code_prefix": "E"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.536731,51072905]
             }
@@ -4670,7 +4670,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53487,51073218]
             }
@@ -4689,7 +4689,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.535635,5107317]
             }
@@ -4708,7 +4708,7 @@
                 "text_below_sign": "",
                 "code_prefix": "D"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.530463,51071464]
             }
@@ -4727,7 +4727,7 @@
                 "text_below_sign": "",
                 "code_prefix": "D"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53556,5106667]
             }
@@ -4746,7 +4746,7 @@
                 "text_below_sign": "",
                 "code_prefix": "D"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53556,5106667]
             }
@@ -4765,7 +4765,7 @@
                 "text_below_sign": "",
                 "code_prefix": "C"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53523,5106628]
             }
@@ -4784,7 +4784,7 @@
                 "text_below_sign": "",
                 "code_prefix": "A"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53523,5106628]
             }
@@ -4803,7 +4803,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53523,5106628]
             }
@@ -4822,7 +4822,7 @@
                 "text_below_sign": "",
                 "code_prefix": "D"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53532,5106631]
             }
@@ -4841,7 +4841,7 @@
                 "text_below_sign": "",
                 "code_prefix": "D"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53532,5106631]
             }
@@ -4860,7 +4860,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.536066,5107291]
             }
@@ -4879,7 +4879,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.535868,51073016]
             }
@@ -4898,7 +4898,7 @@
                 "text_below_sign": "55m",
                 "code_prefix": "A"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.535761,51073818]
             }
@@ -4917,7 +4917,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.536385,51070783]
             }
@@ -4936,7 +4936,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.531606,51071667]
             }
@@ -4955,7 +4955,7 @@
                 "text_below_sign": "M10",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.536685,5106815]
             }
@@ -4974,7 +4974,7 @@
                 "text_below_sign": "85 m",
                 "code_prefix": "A"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.535036,51070759]
             }
@@ -4993,7 +4993,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.536176,51070809]
             }
@@ -5012,7 +5012,7 @@
                 "text_below_sign": "25m",
                 "code_prefix": "A"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.536385,51070783]
             }
@@ -5031,7 +5031,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.536546,51070962]
             }
@@ -5050,7 +5050,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.536595,51070729]
             }
@@ -5069,7 +5069,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.536595,51070729]
             }
@@ -5088,7 +5088,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.536662,51070849]
             }
@@ -5107,7 +5107,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53467,51074881]
             }
@@ -5126,7 +5126,7 @@
                 "text_below_sign": "",
                 "code_prefix": "A"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53623,51071875]
             }
@@ -5145,7 +5145,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.535715,51072842]
             }
@@ -5164,7 +5164,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.535868,51073016]
             }
@@ -5183,7 +5183,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.535868,51073016]
             }
@@ -5202,7 +5202,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.535868,51073016]
             }
@@ -5221,7 +5221,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.535868,51073016]
             }
@@ -5240,7 +5240,7 @@
                 "text_below_sign": "Uitgezonderd voertuigen autoleerrijpark",
                 "code_prefix": "C"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.537083,51072719]
             }
@@ -5259,7 +5259,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53467,5107633]
             }
@@ -5278,7 +5278,7 @@
                 "text_below_sign": "",
                 "code_prefix": "D"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.536514,51071058]
             }
@@ -5297,7 +5297,7 @@
                 "text_below_sign": "M10",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.535261,51066463]
             }
@@ -5316,7 +5316,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.518221,51070299]
             }
@@ -5335,7 +5335,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.522875,51070292]
             }
@@ -5354,7 +5354,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.524831,51066072]
             }
@@ -5373,7 +5373,7 @@
                 "text_below_sign": "",
                 "code_prefix": ""
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.532126,51072914]
             }
@@ -5392,7 +5392,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.521904,5106662]
             }
@@ -5411,7 +5411,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.52707,51070487]
             }
@@ -5430,7 +5430,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.530949,51071214]
             }
@@ -5449,7 +5449,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.519447,51070703]
             }
@@ -5468,7 +5468,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53671,5106823]
             }
@@ -5487,7 +5487,7 @@
                 "text_below_sign": "",
                 "code_prefix": "C"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.5367,510728]
             }
@@ -5506,7 +5506,7 @@
                 "text_below_sign": "",
                 "code_prefix": "D"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.536549,51070476]
             }
@@ -5525,7 +5525,7 @@
                 "text_below_sign": "E0a",
                 "code_prefix": "E"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.509083,5107174]
             }
@@ -5544,7 +5544,7 @@
                 "text_below_sign": "E0b",
                 "code_prefix": "E"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.50738,51071536]
             }
@@ -5563,7 +5563,7 @@
                 "text_below_sign": "150 m",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53027,51062135]
             }
@@ -5582,7 +5582,7 @@
                 "text_below_sign": "150m",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.530189,51061587]
             }
@@ -5601,7 +5601,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.535033,51072772]
             }
@@ -5620,7 +5620,7 @@
                 "text_below_sign": "",
                 "code_prefix": "D"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.530549,51071405]
             }
@@ -5639,7 +5639,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.536562,51070702]
             }
@@ -5658,7 +5658,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.536562,51070702]
             }
@@ -5677,7 +5677,7 @@
                 "text_below_sign": "100 m",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53774,5106733]
             }
@@ -5696,7 +5696,7 @@
                 "text_below_sign": "",
                 "code_prefix": "A"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53882,5107057]
             }
@@ -5715,7 +5715,7 @@
                 "text_below_sign": "",
                 "code_prefix": "C"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53185,5106147]
             }
@@ -5734,7 +5734,7 @@
                 "text_below_sign": "",
                 "code_prefix": "A"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.536487,51069292]
             }
@@ -5753,7 +5753,7 @@
                 "text_below_sign": "150m",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.5374,510671]
             }
@@ -5772,7 +5772,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53655,5107041]
             }
@@ -5791,7 +5791,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53638,5107056]
             }
@@ -5810,7 +5810,7 @@
                 "text_below_sign": "",
                 "code_prefix": "A"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53623,51071875]
             }
@@ -5829,7 +5829,7 @@
                 "text_below_sign": "100m",
                 "code_prefix": "A"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.537093,51072719]
             }
@@ -5848,7 +5848,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53127,51061799]
             }
@@ -5867,7 +5867,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.55452,5107141]
             }
@@ -5886,7 +5886,7 @@
                 "text_below_sign": "",
                 "code_prefix": "D"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.535033,51072757]
             }
@@ -5905,7 +5905,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53159,51061814]
             }
@@ -5924,7 +5924,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.531442,51061796]
             }
@@ -5943,7 +5943,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.518495,51071186]
             }
@@ -5962,7 +5962,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.518833,510707]
             }
@@ -5981,7 +5981,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.518192,51070313]
             }
@@ -6000,7 +6000,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.518184,51070311]
             }
@@ -6019,7 +6019,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.518184,51070311]
             }
@@ -6038,7 +6038,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.518184,51070311]
             }
@@ -6057,7 +6057,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.521295,51066918]
             }
@@ -6076,7 +6076,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.535761,51073818]
             }
@@ -6095,7 +6095,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53576,51073867]
             }
@@ -6114,7 +6114,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53576,51073867]
             }
@@ -6133,7 +6133,7 @@
                 "text_below_sign": "",
                 "code_prefix": "D"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.532075,5106141]
             }
@@ -6152,7 +6152,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.525364,51090334]
             }
@@ -6171,7 +6171,7 @@
                 "text_below_sign": "",
                 "code_prefix": "C"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.541692,51072001]
             }
@@ -6190,7 +6190,7 @@
                 "text_below_sign": "",
                 "code_prefix": "A"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.535956,51072174]
             }
@@ -6209,7 +6209,7 @@
                 "text_below_sign": "",
                 "code_prefix": "D"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53672,5106828]
             }
@@ -6228,7 +6228,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.531511,5106077]
             }
@@ -6247,7 +6247,7 @@
                 "text_below_sign": "M10",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.532322,51061497]
             }
@@ -6266,7 +6266,7 @@
                 "text_below_sign": "",
                 "code_prefix": "D"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.536517,51067983]
             }
@@ -6285,7 +6285,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.531787,5106087]
             }
@@ -6304,7 +6304,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53672,5106828]
             }
@@ -6323,7 +6323,7 @@
                 "text_below_sign": "",
                 "code_prefix": ""
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53666,5106824]
             }
@@ -6342,7 +6342,7 @@
                 "text_below_sign": "",
                 "code_prefix": "C"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.549667,51070323]
             }
@@ -6361,7 +6361,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.536519,51067884]
             }
@@ -6380,7 +6380,7 @@
                 "text_below_sign": "...",
                 "code_prefix": "C"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.547482,51070239]
             }
@@ -6399,7 +6399,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.547606,510702]
             }
@@ -6418,7 +6418,7 @@
                 "text_below_sign": "",
                 "code_prefix": ""
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53664,5106841]
             }
@@ -6437,7 +6437,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.536519,51067884]
             }
@@ -6456,7 +6456,7 @@
                 "text_below_sign": "",
                 "code_prefix": "D"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53512,5107741]
             }
@@ -6475,7 +6475,7 @@
                 "text_below_sign": "",
                 "code_prefix": "C"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.536305,51067889]
             }
@@ -6494,7 +6494,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.532176,5106143]
             }
@@ -6513,7 +6513,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.536305,51067889]
             }
@@ -6532,7 +6532,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53512,5107741]
             }
@@ -6551,7 +6551,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.535208,51077377]
             }
@@ -6570,7 +6570,7 @@
                 "text_below_sign": "",
                 "code_prefix": ""
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53664,5106841]
             }
@@ -6589,7 +6589,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.532176,5106143]
             }
@@ -6608,7 +6608,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.532167,51061417]
             }
@@ -6627,7 +6627,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.532257,51061528]
             }
@@ -6646,7 +6646,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53244,51061851]
             }
@@ -6665,7 +6665,7 @@
                 "text_below_sign": "",
                 "code_prefix": "C"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53244,51061851]
             }
@@ -6684,7 +6684,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.532489,51062204]
             }
@@ -6703,7 +6703,7 @@
                 "text_below_sign": "",
                 "code_prefix": "A"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53393,51064031]
             }
@@ -6722,7 +6722,7 @@
                 "text_below_sign": "",
                 "code_prefix": "C"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.531862,51061337]
             }
@@ -6741,7 +6741,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.531862,51061337]
             }
@@ -6760,7 +6760,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.520687,51082139]
             }
@@ -6779,7 +6779,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53524,5107619]
             }
@@ -6798,7 +6798,7 @@
                 "text_below_sign": "",
                 "code_prefix": "A"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.536487,51069292]
             }
@@ -6817,7 +6817,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53817,5107753]
             }
@@ -6836,7 +6836,7 @@
                 "text_below_sign": "Uitgezonderd plaatselijk verkeer",
                 "code_prefix": "C"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.54199,5106975]
             }
@@ -6855,7 +6855,7 @@
                 "text_below_sign": "",
                 "code_prefix": "C"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53492,5108054]
             }
@@ -6874,7 +6874,7 @@
                 "text_below_sign": "50m",
                 "code_prefix": "A"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53492,5108054]
             }
@@ -6893,7 +6893,7 @@
                 "text_below_sign": "",
                 "code_prefix": ""
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53444,5108001]
             }
@@ -6912,7 +6912,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.531139,51084484]
             }
@@ -6931,7 +6931,7 @@
                 "text_below_sign": "",
                 "code_prefix": "A"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.546377,51080122]
             }
@@ -6950,7 +6950,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53492,5108054]
             }
@@ -6969,7 +6969,7 @@
                 "text_below_sign": "",
                 "code_prefix": "D"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53492,5108054]
             }
@@ -6988,7 +6988,7 @@
                 "text_below_sign": "",
                 "code_prefix": ""
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53506,5108106]
             }
@@ -7007,7 +7007,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.52704,5108775]
             }
@@ -7026,7 +7026,7 @@
                 "text_below_sign": "",
                 "code_prefix": "A"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.533741,51085528]
             }
@@ -7045,7 +7045,7 @@
                 "text_below_sign": "",
                 "code_prefix": "C"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.5312,5108427]
             }
@@ -7064,7 +7064,7 @@
                 "text_below_sign": "",
                 "code_prefix": "C"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.549473,51070515]
             }
@@ -7083,7 +7083,7 @@
                 "text_below_sign": "",
                 "code_prefix": "C"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.5309,5108466]
             }
@@ -7102,7 +7102,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.5312,5108427]
             }
@@ -7121,7 +7121,7 @@
                 "text_below_sign": "",
                 "code_prefix": "A"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.516819,51065506]
             }
@@ -7140,7 +7140,7 @@
                 "text_below_sign": "",
                 "code_prefix": "C"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.525364,51090334]
             }
@@ -7159,7 +7159,7 @@
                 "text_below_sign": "Uitrit vrachtwagens",
                 "code_prefix": "A"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.525355,51090358]
             }
@@ -7178,7 +7178,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53497,5108021]
             }
@@ -7197,7 +7197,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.541421,51072056]
             }
@@ -7216,7 +7216,7 @@
                 "text_below_sign": "",
                 "code_prefix": "A"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.55166,5107086]
             }
@@ -7235,7 +7235,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.526153,51088966]
             }
@@ -7254,7 +7254,7 @@
                 "text_below_sign": "70",
                 "code_prefix": "C"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.52704,5108775]
             }
@@ -7273,7 +7273,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53441,5107992]
             }
@@ -7292,7 +7292,7 @@
                 "text_below_sign": "",
                 "code_prefix": "D"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53441,5107992]
             }
@@ -7311,7 +7311,7 @@
                 "text_below_sign": "",
                 "code_prefix": "D"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.52704,5108775]
             }
@@ -7330,7 +7330,7 @@
                 "text_below_sign": "Uitgez. diensten en aangelanden en met toelating",
                 "code_prefix": "C"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.528996,51090298]
             }
@@ -7349,7 +7349,7 @@
                 "text_below_sign": "",
                 "code_prefix": "A"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53596,5106707]
             }
@@ -7368,7 +7368,7 @@
                 "text_below_sign": "",
                 "code_prefix": "D"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.527735,51087739]
             }
@@ -7387,7 +7387,7 @@
                 "text_below_sign": "",
                 "code_prefix": "C"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53511,5108017]
             }
@@ -7406,7 +7406,7 @@
                 "text_below_sign": "100m",
                 "code_prefix": "A"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53432,5108193]
             }
@@ -7425,7 +7425,7 @@
                 "text_below_sign": "",
                 "code_prefix": "A"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.535768,51080366]
             }
@@ -7444,7 +7444,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53445,5107999]
             }
@@ -7463,7 +7463,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53054,5108478]
             }
@@ -7482,7 +7482,7 @@
                 "text_below_sign": "",
                 "code_prefix": "D"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.5309,5108466]
             }
@@ -7501,7 +7501,7 @@
                 "text_below_sign": "",
                 "code_prefix": "D"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.52729,5108754]
             }
@@ -7520,7 +7520,7 @@
                 "text_below_sign": "",
                 "code_prefix": "D"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53054,5108478]
             }
@@ -7539,7 +7539,7 @@
                 "text_below_sign": "",
                 "code_prefix": "A"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.534756,51081273]
             }
@@ -7558,7 +7558,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.534658,51080015]
             }
@@ -7577,7 +7577,7 @@
                 "text_below_sign": "150m",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.536707,51080684]
             }
@@ -7596,7 +7596,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.533348,5108737]
             }
@@ -7615,7 +7615,7 @@
                 "text_below_sign": "",
                 "code_prefix": "A"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.534079,51086342]
             }
@@ -7634,7 +7634,7 @@
                 "text_below_sign": "",
                 "code_prefix": "A"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53466,5107861]
             }
@@ -7653,7 +7653,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.5309,5108466]
             }
@@ -7672,7 +7672,7 @@
                 "text_below_sign": "",
                 "code_prefix": "C"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53054,5108478]
             }
@@ -7691,7 +7691,7 @@
                 "text_below_sign": "",
                 "code_prefix": "C"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.512479,51081313]
             }
@@ -7710,7 +7710,7 @@
                 "text_below_sign": "50 m",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.528832,51088119]
             }
@@ -7729,7 +7729,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.52744,51087456]
             }
@@ -7748,7 +7748,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.527153,51087688]
             }
@@ -7767,7 +7767,7 @@
                 "text_below_sign": "",
                 "code_prefix": "C"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.527209,51087622]
             }
@@ -7786,7 +7786,7 @@
                 "text_below_sign": "70",
                 "code_prefix": "C"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.52729,5108754]
             }
@@ -7805,7 +7805,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.52729,5108754]
             }
@@ -7824,7 +7824,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.512469,51081302]
             }
@@ -7843,7 +7843,7 @@
                 "text_below_sign": "",
                 "code_prefix": "D"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.529822,51085076]
             }
@@ -7862,7 +7862,7 @@
                 "text_below_sign": "",
                 "code_prefix": "C"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.529621,5108506]
             }
@@ -7881,7 +7881,7 @@
                 "text_below_sign": "",
                 "code_prefix": ""
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.526633,51087888]
             }
@@ -7900,7 +7900,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.527928,51087066]
             }
@@ -7919,7 +7919,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.526963,51087616]
             }
@@ -7938,7 +7938,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.51207,5108121]
             }
@@ -7957,7 +7957,7 @@
                 "text_below_sign": "",
                 "code_prefix": "A"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.520435,51082158]
             }
@@ -7976,7 +7976,7 @@
                 "text_below_sign": "",
                 "code_prefix": "D"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.52751,5108719]
             }
@@ -7995,7 +7995,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53029,5108515]
             }
@@ -8014,7 +8014,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.526072,51088606]
             }
@@ -8033,7 +8033,7 @@
                 "text_below_sign": "70",
                 "code_prefix": "C"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.5261,5108859]
             }
@@ -8052,7 +8052,7 @@
                 "text_below_sign": "",
                 "code_prefix": "D"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.52707,5108755]
             }
@@ -8071,7 +8071,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.5261,5108859]
             }
@@ -8090,7 +8090,7 @@
                 "text_below_sign": "A15a",
                 "code_prefix": "A"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.52675,5108803]
             }
@@ -8109,7 +8109,7 @@
                 "text_below_sign": "Uitrit vrachtwagens",
                 "code_prefix": "A"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.526947,51087843]
             }
@@ -8128,7 +8128,7 @@
                 "text_below_sign": "",
                 "code_prefix": "D"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.5261,5108859]
             }
@@ -8147,7 +8147,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.530179,5108504]
             }
@@ -8166,7 +8166,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.52996,5108522]
             }
@@ -8185,7 +8185,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.511961,51081219]
             }
@@ -8204,7 +8204,7 @@
                 "text_below_sign": "",
                 "code_prefix": "D"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53531,51066461]
             }
@@ -8223,7 +8223,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.52996,5108522]
             }
@@ -8242,7 +8242,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.52751,5108719]
             }
@@ -8261,7 +8261,7 @@
                 "text_below_sign": "",
                 "code_prefix": "C"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.52751,5108719]
             }
@@ -8280,7 +8280,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.5303,5108514]
             }
@@ -8299,7 +8299,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.51207,5108121]
             }
@@ -8318,7 +8318,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.51207,5108121]
             }
@@ -8337,7 +8337,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.51207,5108121]
             }
@@ -8356,7 +8356,7 @@
                 "text_below_sign": "",
                 "code_prefix": "A"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.522266,51082747]
             }
@@ -8375,7 +8375,7 @@
                 "text_below_sign": "Als je mijn plaats inneemt, neem dan ook mijn handicap over.",
                 "code_prefix": "E"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.5361,5107409]
             }
@@ -8394,7 +8394,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.521121,51082265]
             }
@@ -8413,7 +8413,7 @@
                 "text_below_sign": "",
                 "code_prefix": "D"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53501,5107794]
             }
@@ -8432,7 +8432,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53501,5107794]
             }
@@ -8451,7 +8451,7 @@
                 "text_below_sign": "",
                 "code_prefix": "C"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.520845,5108228]
             }
@@ -8470,7 +8470,7 @@
                 "text_below_sign": "Stop 150m",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.528401,51084585]
             }
@@ -8489,7 +8489,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.5303,5108514]
             }
@@ -8508,7 +8508,7 @@
                 "text_below_sign": "Uitgezonderd fietsers en rolstoelgebruikers",
                 "code_prefix": "C"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.516178,51077521]
             }
@@ -8527,7 +8527,7 @@
                 "text_below_sign": "",
                 "code_prefix": "A"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.517865,51081789]
             }
@@ -8546,7 +8546,7 @@
                 "text_below_sign": "",
                 "code_prefix": "C"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.52707,5108755]
             }
@@ -8565,7 +8565,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.52707,5108755]
             }
@@ -8584,7 +8584,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.532864,51075905]
             }
@@ -8603,7 +8603,7 @@
                 "text_below_sign": "",
                 "code_prefix": "C"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.512243,51081387]
             }
@@ -8622,7 +8622,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.521263,51082417]
             }
@@ -8641,7 +8641,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.512074,51081202]
             }
@@ -8660,7 +8660,7 @@
                 "text_below_sign": "",
                 "code_prefix": "D"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53002,51085137]
             }
@@ -8679,7 +8679,7 @@
                 "text_below_sign": "",
                 "code_prefix": "D"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.52599,5108907]
             }
@@ -8698,7 +8698,7 @@
                 "text_below_sign": "",
                 "code_prefix": ""
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.526051,51088601]
             }
@@ -8717,7 +8717,7 @@
                 "text_below_sign": "",
                 "code_prefix": "F"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53029,5108515]
             }
@@ -8736,7 +8736,7 @@
                 "text_below_sign": "70",
                 "code_prefix": "C"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.52599,5108907]
             }
@@ -8755,7 +8755,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.52599,5108907]
             }
@@ -8774,7 +8774,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.530138,51085042]
             }
@@ -8793,7 +8793,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.535016,51077248]
             }
@@ -8812,7 +8812,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.534925,51077573]
             }
@@ -8831,7 +8831,7 @@
                 "text_below_sign": "",
                 "code_prefix": "C"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.534018,51077585]
             }
@@ -8850,7 +8850,7 @@
                 "text_below_sign": "",
                 "code_prefix": "B"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.53486,51077667]
             }
@@ -8869,7 +8869,7 @@
                 "text_below_sign": "",
                 "code_prefix": "C"
             },
-            geometry: {
+            "geometry": {
                 "type": "Point",
                 "coordinates":[3.521183,51082312]
             }
