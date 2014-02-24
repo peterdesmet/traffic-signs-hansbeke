@@ -481,7 +481,7 @@
                 "verified": true,
                 "marker-size": "small",
                 "marker-color": "#7e7e7e",
-                "marker-symbol": "0"
+                "marker-symbol": "marker"
             }
         },
         {
@@ -734,7 +734,7 @@
                 "verified": true,
                 "marker-size": "small",
                 "marker-color": "#7e7e7e",
-                "marker-symbol": "0"
+                "marker-symbol": "marker"
             }
         },
         {
@@ -2758,7 +2758,7 @@
                 "verified": true,
                 "marker-size": "small",
                 "marker-color": "#7e7e7e",
-                "marker-symbol": "0"
+                "marker-symbol": "marker"
             }
         },
         {
@@ -2781,7 +2781,7 @@
                 "verified": true,
                 "marker-size": "small",
                 "marker-color": "#7e7e7e",
-                "marker-symbol": "0"
+                "marker-symbol": "marker"
             }
         },
         {
@@ -2804,7 +2804,7 @@
                 "verified": true,
                 "marker-size": "small",
                 "marker-color": "#7e7e7e",
-                "marker-symbol": "0"
+                "marker-symbol": "marker"
             }
         },
         {
@@ -2827,7 +2827,7 @@
                 "verified": true,
                 "marker-size": "small",
                 "marker-color": "#7e7e7e",
-                "marker-symbol": "0"
+                "marker-symbol": "marker"
             }
         },
         {
@@ -4230,7 +4230,7 @@
                 "verified": false,
                 "marker-size": "small",
                 "marker-color": "#7e7e7e",
-                "marker-symbol": "0"
+                "marker-symbol": "marker"
             }
         },
         {
@@ -5196,7 +5196,7 @@
                 "verified": true,
                 "marker-size": "small",
                 "marker-color": "#7e7e7e",
-                "marker-symbol": "0"
+                "marker-symbol": "marker"
             }
         },
         {
@@ -5265,7 +5265,7 @@
                 "verified": true,
                 "marker-size": "small",
                 "marker-color": "#7e7e7e",
-                "marker-symbol": "0"
+                "marker-symbol": "marker"
             }
         },
         {
@@ -6415,7 +6415,7 @@
                 "verified": false,
                 "marker-size": "small",
                 "marker-color": "#7e7e7e",
-                "marker-symbol": "0"
+                "marker-symbol": "marker"
             }
         },
         {
@@ -6967,7 +6967,7 @@
                 "verified": true,
                 "marker-size": "small",
                 "marker-color": "#7e7e7e",
-                "marker-symbol": "0"
+                "marker-symbol": "marker"
             }
         },
         {
@@ -8094,7 +8094,7 @@
                 "verified": true,
                 "marker-size": "small",
                 "marker-color": "#7e7e7e",
-                "marker-symbol": "0"
+                "marker-symbol": "marker"
             }
         },
         {
@@ -8163,7 +8163,7 @@
                 "verified": false,
                 "marker-size": "small",
                 "marker-color": "#7e7e7e",
-                "marker-symbol": "0"
+                "marker-symbol": "marker"
             }
         },
         {
@@ -8370,7 +8370,7 @@
                 "verified": true,
                 "marker-size": "small",
                 "marker-color": "#7e7e7e",
-                "marker-symbol": "0"
+                "marker-symbol": "marker"
             }
         },
         {
@@ -8577,7 +8577,7 @@
                 "verified": null,
                 "marker-size": "small",
                 "marker-color": "#7e7e7e",
-                "marker-symbol": "0"
+                "marker-symbol": "marker"
             }
         },
         {
@@ -9658,7 +9658,7 @@
                 "verified": false,
                 "marker-size": "small",
                 "marker-color": "#7e7e7e",
-                "marker-symbol": "0"
+                "marker-symbol": "marker"
             }
         },
         {
@@ -9681,7 +9681,7 @@
                 "verified": false,
                 "marker-size": "small",
                 "marker-color": "#7e7e7e",
-                "marker-symbol": "0"
+                "marker-symbol": "marker"
             }
         },
         {
