@@ -18,7 +18,10 @@
                 "text_below_sign": "",
                 "street": "Reibroekstraat",
                 "facing": "W",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -38,7 +41,10 @@
                 "text_below_sign": "",
                 "street": "Reibroekstraat",
                 "facing": "W",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -58,7 +64,10 @@
                 "text_below_sign": "Uitgezonderd plaatselijk verkeer",
                 "street": "Driesstraat",
                 "facing": "N",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -78,7 +87,10 @@
                 "text_below_sign": "",
                 "street": "Reibroekstraat",
                 "facing": "W",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -98,7 +110,10 @@
                 "text_below_sign": "Uitgezonderd plaatselijk verkeer",
                 "street": "Nieuwetuinstraat",
                 "facing": "N",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -118,7 +133,10 @@
                 "text_below_sign": "",
                 "street": "Nieuwetuinstraat",
                 "facing": "N",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -138,7 +156,10 @@
                 "text_below_sign": "",
                 "street": "Nieuwetuinstraat",
                 "facing": "S",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -158,7 +179,10 @@
                 "text_below_sign": "",
                 "street": "Kapellenstraat",
                 "facing": "W",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -178,7 +202,10 @@
                 "text_below_sign": "",
                 "street": "Kapellenstraat",
                 "facing": "E",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -198,7 +225,10 @@
                 "text_below_sign": "Uitgezonderd plaatselijk verkeer; M3",
                 "street": "Ommegangstraat",
                 "facing": "W",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -218,7 +248,10 @@
                 "text_below_sign": "",
                 "street": "Reibroekstraat",
                 "facing": "S",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -238,7 +271,10 @@
                 "text_below_sign": "E0d",
                 "street": "Reibroekstraat",
                 "facing": "W",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -258,7 +294,10 @@
                 "text_below_sign": "90 m",
                 "street": "Reibroekstraat",
                 "facing": "W",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -278,7 +317,10 @@
                 "text_below_sign": "",
                 "street": "Reibroekstraat",
                 "facing": "W",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -298,7 +340,10 @@
                 "text_below_sign": "",
                 "street": "Reibroekstraat",
                 "facing": "W",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -318,7 +363,10 @@
                 "text_below_sign": "E0b",
                 "street": "Reibroekstraat",
                 "facing": "E",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -338,7 +386,10 @@
                 "text_below_sign": "E0a",
                 "street": "Reibroekstraat",
                 "facing": "W",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -358,7 +409,10 @@
                 "text_below_sign": "",
                 "street": "Reibroekstraat",
                 "facing": "W",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -378,7 +432,10 @@
                 "text_below_sign": "",
                 "street": "Driesstraat",
                 "facing": "S",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -398,7 +455,10 @@
                 "text_below_sign": "",
                 "street": "Driesstraat",
                 "facing": "N",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -418,7 +478,10 @@
                 "text_below_sign": "",
                 "street": "Borluutlaan",
                 "facing": "E",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -438,7 +501,10 @@
                 "text_below_sign": "",
                 "street": "Reibroekstraat",
                 "facing": "N",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -458,7 +524,10 @@
                 "text_below_sign": "E0d",
                 "street": "Reibroekstraat",
                 "facing": "E",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -478,7 +547,10 @@
                 "text_below_sign": "E0a",
                 "street": "Reibroekstraat",
                 "facing": "E",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -498,7 +570,10 @@
                 "text_below_sign": "",
                 "street": "Reibroekstraat",
                 "facing": "E",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -518,7 +593,10 @@
                 "text_below_sign": "",
                 "street": "Nevelestraat",
                 "facing": "W",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -538,7 +616,10 @@
                 "text_below_sign": "",
                 "street": "Nevelestraat",
                 "facing": "S",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -558,7 +639,10 @@
                 "text_below_sign": "",
                 "street": "Nevelestraat",
                 "facing": "S",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -578,7 +662,10 @@
                 "text_below_sign": "",
                 "street": "Hansbekedorp",
                 "facing": "N",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -598,7 +685,10 @@
                 "text_below_sign": "",
                 "street": "Hansbekedorp",
                 "facing": "N",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -618,7 +708,10 @@
                 "text_below_sign": "",
                 "street": "Nevelestraat",
                 "facing": "S",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -638,7 +731,10 @@
                 "text_below_sign": "",
                 "street": "Borluutlaan",
                 "facing": "N",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -658,7 +754,10 @@
                 "text_below_sign": "",
                 "street": "Borluutlaan",
                 "facing": "E",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -678,7 +777,10 @@
                 "text_below_sign": "",
                 "street": "Reibroekstraat",
                 "facing": "W",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -698,7 +800,10 @@
                 "text_below_sign": "",
                 "street": "Tien Gemeten",
                 "facing": "N",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -718,7 +823,10 @@
                 "text_below_sign": "",
                 "street": "Reibroekstraat",
                 "facing": "S",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -738,7 +846,10 @@
                 "text_below_sign": "",
                 "street": "Reibroekstraat",
                 "facing": "S",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -758,7 +869,10 @@
                 "text_below_sign": "",
                 "street": "Reibroekstraat",
                 "facing": "W",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -778,7 +892,10 @@
                 "text_below_sign": "",
                 "street": "Reibroekstraat",
                 "facing": "N",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -798,7 +915,10 @@
                 "text_below_sign": "",
                 "street": "Reibroekstraat",
                 "facing": "S",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -818,7 +938,10 @@
                 "text_below_sign": "",
                 "street": "Reibroekstraat",
                 "facing": "S",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -838,7 +961,10 @@
                 "text_below_sign": "",
                 "street": "Reibroekstraat",
                 "facing": "E",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -858,7 +984,10 @@
                 "text_below_sign": "Uitgezonderd plaatselijk verkeer",
                 "street": "Driesstraat",
                 "facing": "S",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -878,7 +1007,10 @@
                 "text_below_sign": "",
                 "street": "Boerestraat",
                 "facing": "E",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -898,7 +1030,10 @@
                 "text_below_sign": "",
                 "street": "Boerestraat",
                 "facing": "W",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -918,7 +1053,10 @@
                 "text_below_sign": "",
                 "street": "Boerestraat",
                 "facing": "E",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -938,7 +1076,10 @@
                 "text_below_sign": "",
                 "street": "Dalestraat",
                 "facing": "S",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -958,7 +1099,10 @@
                 "text_below_sign": "",
                 "street": "Boerestraat",
                 "facing": "W",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -978,7 +1122,10 @@
                 "text_below_sign": "",
                 "street": "Boerestraat",
                 "facing": "S",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -998,7 +1145,10 @@
                 "text_below_sign": "",
                 "street": "Boerestraat",
                 "facing": "E",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -1018,7 +1168,10 @@
                 "text_below_sign": "",
                 "street": "Boerestraat",
                 "facing": "W",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -1038,7 +1191,10 @@
                 "text_below_sign": "",
                 "street": "Borluutlaan",
                 "facing": "W",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -1058,7 +1214,10 @@
                 "text_below_sign": "",
                 "street": "Borluutlaan",
                 "facing": "E",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -1078,7 +1237,10 @@
                 "text_below_sign": "",
                 "street": "Kippendonkstraat",
                 "facing": "W",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -1098,7 +1260,10 @@
                 "text_below_sign": "",
                 "street": "Kapellenstraat",
                 "facing": "E",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -1118,7 +1283,10 @@
                 "text_below_sign": "",
                 "street": "Nieuwetuinstraat",
                 "facing": "S",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -1138,7 +1306,10 @@
                 "text_below_sign": "",
                 "street": "Reibroekstraat",
                 "facing": "E",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -1158,7 +1329,10 @@
                 "text_below_sign": "",
                 "street": "Ommegangstraat",
                 "facing": "E",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -1178,7 +1352,10 @@
                 "text_below_sign": "Uitgezonderd plaatselijk verkeer; M3",
                 "street": "Ommegangstraat",
                 "facing": "E",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -1198,7 +1375,10 @@
                 "text_below_sign": "85 m",
                 "street": "Kapellenstraat",
                 "facing": "W",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -1218,7 +1398,10 @@
                 "text_below_sign": "",
                 "street": "Kapellenstraat",
                 "facing": "W",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -1238,7 +1421,10 @@
                 "text_below_sign": "",
                 "street": "Nevelestraat",
                 "facing": "N",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -1258,7 +1444,10 @@
                 "text_below_sign": "25m",
                 "street": "Nevelestraat",
                 "facing": "N",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -1278,7 +1467,10 @@
                 "text_below_sign": "",
                 "street": "Nevelestraat",
                 "facing": "S",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -1298,7 +1490,10 @@
                 "text_below_sign": "",
                 "street": "Nevelestraat",
                 "facing": "S",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -1318,7 +1513,10 @@
                 "text_below_sign": "",
                 "street": "Nevelestraat",
                 "facing": "S",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -1338,7 +1536,10 @@
                 "text_below_sign": "",
                 "street": "Nevelestraat",
                 "facing": "W",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -1358,7 +1559,10 @@
                 "text_below_sign": "",
                 "street": "Nevelestraat",
                 "facing": "W",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -1378,7 +1582,10 @@
                 "text_below_sign": "",
                 "street": "Nevelestraat",
                 "facing": "N",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -1398,7 +1605,10 @@
                 "text_below_sign": "",
                 "street": "Nevelestraat",
                 "facing": "S",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -1418,7 +1628,10 @@
                 "text_below_sign": "",
                 "street": "Nevelestraat",
                 "facing": "N",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -1438,7 +1651,10 @@
                 "text_below_sign": "",
                 "street": "Nevelestraat",
                 "facing": "S",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -1458,7 +1674,10 @@
                 "text_below_sign": "",
                 "street": "Nevelestraat",
                 "facing": "W",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -1478,7 +1697,10 @@
                 "text_below_sign": "",
                 "street": "Kapellenstraat",
                 "facing": "E",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -1498,7 +1720,10 @@
                 "text_below_sign": "",
                 "street": "Nevelestraat",
                 "facing": "N",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -1518,7 +1743,10 @@
                 "text_below_sign": "",
                 "street": "Nevelestraat",
                 "facing": "S",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -1538,7 +1766,10 @@
                 "text_below_sign": "",
                 "street": "Nevelestraat",
                 "facing": "S",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -1558,7 +1789,10 @@
                 "text_below_sign": "",
                 "street": "Nevelestraat",
                 "facing": "N",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -1578,7 +1812,10 @@
                 "text_below_sign": "",
                 "street": "Nevelestraat",
                 "facing": "S",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -1598,7 +1835,10 @@
                 "text_below_sign": "",
                 "street": "Nevelestraat",
                 "facing": "S",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -1618,7 +1858,10 @@
                 "text_below_sign": "",
                 "street": "Nevelestraat",
                 "facing": "S",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -1638,7 +1881,10 @@
                 "text_below_sign": "",
                 "street": "Nevelestraat",
                 "facing": "W",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -1658,7 +1904,10 @@
                 "text_below_sign": "",
                 "street": "Nevelestraat",
                 "facing": "W",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -1678,7 +1927,10 @@
                 "text_below_sign": "",
                 "street": "Zandestraat",
                 "facing": "E",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -1698,7 +1950,10 @@
                 "text_below_sign": "",
                 "street": "Zandestraat",
                 "facing": "S",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -1718,7 +1973,10 @@
                 "text_below_sign": "Uitgezonderd voertuigen autoleerrijpark",
                 "street": "Zandestraat",
                 "facing": "S",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -1738,7 +1996,10 @@
                 "text_below_sign": "100m",
                 "street": "Zandestraat",
                 "facing": "E",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -1758,7 +2019,10 @@
                 "text_below_sign": "",
                 "street": "Zandestraat",
                 "facing": "W",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -1778,7 +2042,10 @@
                 "text_below_sign": "",
                 "street": "Tien Gemeten",
                 "facing": "W",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -1798,7 +2065,10 @@
                 "text_below_sign": "",
                 "street": "Tien Gemeten",
                 "facing": "E",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -1818,7 +2088,10 @@
                 "text_below_sign": "",
                 "street": "Tien Gemeten",
                 "facing": "S",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -1838,7 +2111,10 @@
                 "text_below_sign": "",
                 "street": "Zandestraat",
                 "facing": "S",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -1858,7 +2134,10 @@
                 "text_below_sign": "",
                 "street": "Nevelestraat",
                 "facing": "W",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -1878,7 +2157,10 @@
                 "text_below_sign": "",
                 "street": "Nevelestraat",
                 "facing": "N",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -1898,7 +2180,10 @@
                 "text_below_sign": "M10",
                 "street": "Boerestraat",
                 "facing": "W",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -1918,7 +2203,10 @@
                 "text_below_sign": "",
                 "street": "Nevelestraat",
                 "facing": "S",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -1938,7 +2226,10 @@
                 "text_below_sign": "",
                 "street": "Nevelestraat",
                 "facing": "E",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -1958,7 +2249,10 @@
                 "text_below_sign": "",
                 "street": "Nevelestraat",
                 "facing": "W",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -1978,7 +2272,10 @@
                 "text_below_sign": "",
                 "street": "Nevelestraat",
                 "facing": "N",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -1998,7 +2295,10 @@
                 "text_below_sign": "",
                 "street": "Nevelestraat",
                 "facing": "S",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -2018,7 +2318,10 @@
                 "text_below_sign": "",
                 "street": "Nevelestraat",
                 "facing": "N",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -2038,7 +2341,10 @@
                 "text_below_sign": "",
                 "street": "Nevelestraat",
                 "facing": "N",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -2058,7 +2364,10 @@
                 "text_below_sign": "",
                 "street": "Nevelestraat",
                 "facing": "N",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -2078,7 +2387,10 @@
                 "text_below_sign": "",
                 "street": "Nevelestraat",
                 "facing": "N",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -2098,7 +2410,10 @@
                 "text_below_sign": "",
                 "street": "Nevelestraat",
                 "facing": "E",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -2118,7 +2433,10 @@
                 "text_below_sign": "",
                 "street": "Nevelestraat",
                 "facing": "S",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -2138,7 +2456,10 @@
                 "text_below_sign": "",
                 "street": "Nevelestraat",
                 "facing": "N",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -2158,7 +2479,10 @@
                 "text_below_sign": "",
                 "street": "Nevelestraat",
                 "facing": "S",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -2178,7 +2502,10 @@
                 "text_below_sign": "",
                 "street": "Nevelestraat",
                 "facing": "S",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -2198,7 +2525,10 @@
                 "text_below_sign": "",
                 "street": "Nevelestraat",
                 "facing": "S",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -2218,7 +2548,10 @@
                 "text_below_sign": "M10",
                 "street": "Boerestraat",
                 "facing": "E",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -2238,7 +2571,10 @@
                 "text_below_sign": "",
                 "street": "Nevelestraat",
                 "facing": "S",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -2258,7 +2594,10 @@
                 "text_below_sign": "",
                 "street": "Nevelestraat",
                 "facing": "N",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -2278,7 +2617,10 @@
                 "text_below_sign": "",
                 "street": "Hansbekedorp",
                 "facing": "S",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -2298,7 +2640,10 @@
                 "text_below_sign": "",
                 "street": "Hansbekedorp",
                 "facing": "S",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -2318,7 +2663,10 @@
                 "text_below_sign": "",
                 "street": "Nevelestraat",
                 "facing": "S",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -2338,7 +2686,10 @@
                 "text_below_sign": "",
                 "street": "Kapellenstraat",
                 "facing": "E",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -2358,7 +2709,10 @@
                 "text_below_sign": "150m",
                 "street": "Rostraat",
                 "facing": "E",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -2378,7 +2732,10 @@
                 "text_below_sign": "",
                 "street": "Nevelestraat",
                 "facing": "S",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -2398,7 +2755,10 @@
                 "text_below_sign": "",
                 "street": "Nevelestraat",
                 "facing": "S",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -2418,7 +2778,10 @@
                 "text_below_sign": "",
                 "street": "Nevelestraat",
                 "facing": "N",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -2438,7 +2801,10 @@
                 "text_below_sign": "",
                 "street": "Nevelestraat",
                 "facing": "S",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -2458,7 +2824,10 @@
                 "text_below_sign": "",
                 "street": "Nevelestraat",
                 "facing": "N",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -2478,7 +2847,10 @@
                 "text_below_sign": "",
                 "street": "Nevelestraat",
                 "facing": "S",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -2498,7 +2870,10 @@
                 "text_below_sign": "M10",
                 "street": "Rostraat",
                 "facing": "E",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -2518,7 +2893,10 @@
                 "text_below_sign": "",
                 "street": "Nevelestraat",
                 "facing": "N",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -2538,7 +2916,10 @@
                 "text_below_sign": "",
                 "street": "Nevelestraat",
                 "facing": "W",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -2558,7 +2939,10 @@
                 "text_below_sign": "",
                 "street": "Nevelestraat",
                 "facing": "W",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -2578,7 +2962,10 @@
                 "text_below_sign": "",
                 "street": "Nevelestraat",
                 "facing": "N",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -2598,7 +2985,10 @@
                 "text_below_sign": "",
                 "street": "Nevelestraat",
                 "facing": "N",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -2618,7 +3008,10 @@
                 "text_below_sign": "100 m",
                 "street": "Rostraat",
                 "facing": "S",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -2638,7 +3031,10 @@
                 "text_below_sign": "",
                 "street": "Boerestraat",
                 "facing": "N",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -2658,7 +3054,10 @@
                 "text_below_sign": "",
                 "street": "Boerestraat",
                 "facing": "S",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -2678,7 +3077,10 @@
                 "text_below_sign": "",
                 "street": "Karmenhoekstraat",
                 "facing": "N",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -2698,7 +3100,10 @@
                 "text_below_sign": "",
                 "street": "Karmenhoekstraat",
                 "facing": "N",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -2718,7 +3123,10 @@
                 "text_below_sign": "",
                 "street": "Karmenhoekstraat",
                 "facing": "N",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -2738,7 +3146,10 @@
                 "text_below_sign": "",
                 "street": "Reibroekstraat",
                 "facing": "N",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -2758,7 +3169,10 @@
                 "text_below_sign": "",
                 "street": "Kippendonkstraat",
                 "facing": "W",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -2778,7 +3192,10 @@
                 "text_below_sign": "",
                 "street": "Kippendonkstraat",
                 "facing": "N",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -2798,7 +3215,10 @@
                 "text_below_sign": "E0a",
                 "street": "Karmenhoekstraat",
                 "facing": "E",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -2818,7 +3238,10 @@
                 "text_below_sign": "E0b",
                 "street": "Karmenhoekstraat",
                 "facing": "E",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -2838,7 +3261,10 @@
                 "text_below_sign": "150 m",
                 "street": "Dalestraat",
                 "facing": "W",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -2858,7 +3284,10 @@
                 "text_below_sign": "",
                 "street": "Dalestraat",
                 "facing": "N",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -2878,7 +3307,10 @@
                 "text_below_sign": "",
                 "street": "Dalestraat",
                 "facing": "S",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -2898,7 +3330,10 @@
                 "text_below_sign": "Uitgezonderd plaatselijk verkeer",
                 "street": "Dalestraat",
                 "facing": "N",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -2918,7 +3353,10 @@
                 "text_below_sign": "",
                 "street": "Dalestraat",
                 "facing": "S",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -2938,7 +3376,10 @@
                 "text_below_sign": "",
                 "street": "Dalestraat",
                 "facing": "S",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -2958,7 +3399,10 @@
                 "text_below_sign": "",
                 "street": "Dalestraat",
                 "facing": "W",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -2978,7 +3422,10 @@
                 "text_below_sign": "",
                 "street": "Dalestraat",
                 "facing": "E",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -2998,7 +3445,10 @@
                 "text_below_sign": "150m",
                 "street": "Dalestraat",
                 "facing": "S",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -3018,7 +3468,10 @@
                 "text_below_sign": "",
                 "street": "Dalestraat",
                 "facing": "W",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -3038,7 +3491,10 @@
                 "text_below_sign": "",
                 "street": "Dalestraat",
                 "facing": "E",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -3058,7 +3514,10 @@
                 "text_below_sign": "",
                 "street": "Dalestraat",
                 "facing": "E",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -3078,7 +3537,10 @@
                 "text_below_sign": "",
                 "street": "Dalestraat",
                 "facing": "W",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -3098,7 +3560,10 @@
                 "text_below_sign": "",
                 "street": "Dalestraat",
                 "facing": "W",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -3118,7 +3583,10 @@
                 "text_below_sign": "",
                 "street": "Dalestraat",
                 "facing": "E",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -3138,7 +3606,10 @@
                 "text_below_sign": "",
                 "street": "Dalestraat",
                 "facing": "N",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -3158,7 +3629,10 @@
                 "text_below_sign": "",
                 "street": "Dalestraat",
                 "facing": "N",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -3178,7 +3652,10 @@
                 "text_below_sign": "",
                 "street": "Dalestraat",
                 "facing": "S",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -3198,7 +3675,10 @@
                 "text_below_sign": "",
                 "street": "Dalestraat",
                 "facing": "S",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -3218,7 +3698,10 @@
                 "text_below_sign": "",
                 "street": "Nevelestraat",
                 "facing": "N",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -3238,7 +3721,10 @@
                 "text_below_sign": "",
                 "street": "Nevelestraat",
                 "facing": "N",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -3258,7 +3744,10 @@
                 "text_below_sign": "",
                 "street": "Nevelestraat",
                 "facing": "N",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -3278,7 +3767,10 @@
                 "text_below_sign": "",
                 "street": "Nevelestraat",
                 "facing": "S",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -3298,7 +3790,10 @@
                 "text_below_sign": "",
                 "street": "Nevelestraat",
                 "facing": "W",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -3318,7 +3813,10 @@
                 "text_below_sign": "",
                 "street": "Nevelestraat",
                 "facing": "W",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -3338,7 +3836,10 @@
                 "text_below_sign": "",
                 "street": "Nevelestraat",
                 "facing": "W",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -3358,7 +3859,10 @@
                 "text_below_sign": "",
                 "street": "Nevelestraat",
                 "facing": "W",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -3378,7 +3882,10 @@
                 "text_below_sign": "",
                 "street": "Nevelestraat",
                 "facing": "W",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -3398,7 +3905,10 @@
                 "text_below_sign": "",
                 "street": "Nevelestraat",
                 "facing": "W",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -3418,7 +3928,10 @@
                 "text_below_sign": "",
                 "street": "Nevelestraat",
                 "facing": "S",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -3438,7 +3951,10 @@
                 "text_below_sign": "",
                 "street": "Nevelestraat",
                 "facing": "W",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -3458,7 +3974,10 @@
                 "text_below_sign": "",
                 "street": "Nevelestraat",
                 "facing": "N",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -3478,7 +3997,10 @@
                 "text_below_sign": "",
                 "street": "Nevelestraat",
                 "facing": "S",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -3498,7 +4020,10 @@
                 "text_below_sign": "",
                 "street": "Nevelestraat",
                 "facing": "S",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -3518,7 +4043,10 @@
                 "text_below_sign": "",
                 "street": "Nevelestraat",
                 "facing": "S",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -3538,7 +4066,10 @@
                 "text_below_sign": "",
                 "street": "Nevelestraat",
                 "facing": "S",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -3558,7 +4089,10 @@
                 "text_below_sign": "M10",
                 "street": "Rostraat",
                 "facing": "E",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -3578,7 +4112,10 @@
                 "text_below_sign": "",
                 "street": "Nevelestraat",
                 "facing": "N",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -3598,7 +4135,10 @@
                 "text_below_sign": "",
                 "street": "Nevelestraat",
                 "facing": "N",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -3618,7 +4158,10 @@
                 "text_below_sign": "",
                 "street": "Nevelestraat",
                 "facing": "S",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -3638,7 +4181,10 @@
                 "text_below_sign": "",
                 "street": "E40",
                 "facing": "E",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -3658,7 +4204,10 @@
                 "text_below_sign": "",
                 "street": "E40",
                 "facing": "E",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -3678,7 +4227,10 @@
                 "text_below_sign": "",
                 "street": "E40",
                 "facing": "W",
-                "verified": false
+                "verified": false,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -3698,7 +4250,10 @@
                 "text_below_sign": "",
                 "street": "E40",
                 "facing": "W",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -3718,7 +4273,10 @@
                 "text_below_sign": "",
                 "street": "Kromekestraat",
                 "facing": "E",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -3738,7 +4296,10 @@
                 "text_below_sign": "",
                 "street": "Kromekestraat",
                 "facing": "S",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -3758,7 +4319,10 @@
                 "text_below_sign": "150 m",
                 "street": "Rostraat",
                 "facing": "E",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -3778,7 +4342,10 @@
                 "text_below_sign": "",
                 "street": "Rostraat",
                 "facing": "W",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -3798,7 +4365,10 @@
                 "text_below_sign": "",
                 "street": "Palestraat",
                 "facing": "S",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -3818,7 +4388,10 @@
                 "text_below_sign": "",
                 "street": "Palestraat",
                 "facing": "S",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -3838,7 +4411,10 @@
                 "text_below_sign": "",
                 "street": "Palestraat",
                 "facing": "S",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -3858,7 +4434,10 @@
                 "text_below_sign": "Uitgezonderd plaatselijk verkeer",
                 "street": "Palestraat",
                 "facing": "S",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -3878,7 +4457,10 @@
                 "text_below_sign": "",
                 "street": "Palestraat",
                 "facing": "S",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -3898,7 +4480,10 @@
                 "text_below_sign": "",
                 "street": "Palestraat",
                 "facing": "N",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -3918,7 +4503,10 @@
                 "text_below_sign": "Uitgezonderd plaatselijk verkeer",
                 "street": "Palestraat",
                 "facing": "N",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -3938,7 +4526,10 @@
                 "text_below_sign": "Verkeerstafel 150m",
                 "street": "Palestraat",
                 "facing": "W",
-                "verified": false
+                "verified": false,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -3958,7 +4549,10 @@
                 "text_below_sign": "",
                 "street": "Palestraat",
                 "facing": "W",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -3978,7 +4572,10 @@
                 "text_below_sign": "",
                 "street": "Palestraat",
                 "facing": "W",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -3998,7 +4595,10 @@
                 "text_below_sign": "",
                 "street": "Palestraat",
                 "facing": "E",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -4018,7 +4618,10 @@
                 "text_below_sign": "",
                 "street": "Zandestraat",
                 "facing": "E",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -4038,7 +4641,10 @@
                 "text_below_sign": "",
                 "street": "Zandestraat",
                 "facing": "W",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -4058,7 +4664,10 @@
                 "text_below_sign": "",
                 "street": "Palestraat",
                 "facing": "S",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -4078,7 +4687,10 @@
                 "text_below_sign": "",
                 "street": "Palestraat",
                 "facing": "N",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -4098,7 +4710,10 @@
                 "text_below_sign": "",
                 "street": "Palestraat",
                 "facing": "S",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -4118,7 +4733,10 @@
                 "text_below_sign": "",
                 "street": "Palestraat",
                 "facing": "S",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -4138,7 +4756,10 @@
                 "text_below_sign": "",
                 "street": "Palestraat",
                 "facing": "E",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -4158,7 +4779,10 @@
                 "text_below_sign": "150 m",
                 "street": "Palestraat",
                 "facing": "W",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -4178,7 +4802,10 @@
                 "text_below_sign": "Verkeerstafel 250m",
                 "street": "Kleine Heirenthoek",
                 "facing": "E",
-                "verified": false
+                "verified": false,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -4198,7 +4825,10 @@
                 "text_below_sign": "",
                 "street": "Kleine Heirenthoek",
                 "facing": "E",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -4218,7 +4848,10 @@
                 "text_below_sign": "Verkeerstafel 50m",
                 "street": "Palestraat",
                 "facing": "N",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -4238,7 +4871,10 @@
                 "text_below_sign": "",
                 "street": "Palestraat",
                 "facing": "W",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -4258,7 +4894,10 @@
                 "text_below_sign": "",
                 "street": "Palestraat",
                 "facing": "N",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -4278,7 +4917,10 @@
                 "text_below_sign": "",
                 "street": "Donkerstraat",
                 "facing": "E",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -4298,7 +4940,10 @@
                 "text_below_sign": "...",
                 "street": "Donkerstraat",
                 "facing": "E",
-                "verified": false
+                "verified": false,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -4318,7 +4963,10 @@
                 "text_below_sign": "",
                 "street": "Donkerstraat",
                 "facing": "E",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -4338,7 +4986,10 @@
                 "text_below_sign": "",
                 "street": "Donkerstraat",
                 "facing": "E",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -4358,7 +5009,10 @@
                 "text_below_sign": "Uitgezonderd plaatselijk verkeer",
                 "street": "Donkerstraat",
                 "facing": "W",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -4378,7 +5032,10 @@
                 "text_below_sign": "",
                 "street": "Zandestraat",
                 "facing": "N",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -4398,7 +5055,10 @@
                 "text_below_sign": "",
                 "street": "Zandestraat",
                 "facing": "N",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -4418,7 +5078,10 @@
                 "text_below_sign": "",
                 "street": "Zandestraat",
                 "facing": "E",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -4438,7 +5101,10 @@
                 "text_below_sign": "",
                 "street": "Zandestraat",
                 "facing": "W",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -4458,7 +5124,10 @@
                 "text_below_sign": "",
                 "street": "Zandestraat",
                 "facing": "E",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -4478,7 +5147,10 @@
                 "text_below_sign": "",
                 "street": "Zandestraat",
                 "facing": "W",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -4498,7 +5170,10 @@
                 "text_below_sign": "",
                 "street": "Zandestraat",
                 "facing": "W",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -4518,7 +5193,10 @@
                 "text_below_sign": "",
                 "street": "Cardijnlaan",
                 "facing": "N",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -4538,7 +5216,10 @@
                 "text_below_sign": "",
                 "street": "Cardijnlaan",
                 "facing": "S",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -4558,7 +5239,10 @@
                 "text_below_sign": "",
                 "street": "Cardijnlaan",
                 "facing": "E",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -4578,7 +5262,10 @@
                 "text_below_sign": "",
                 "street": "Cardijnlaan",
                 "facing": "N",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -4598,7 +5285,10 @@
                 "text_below_sign": "",
                 "street": "Kapellenstraat",
                 "facing": "W",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -4618,7 +5308,10 @@
                 "text_below_sign": "",
                 "street": "Palestraat",
                 "facing": "N",
-                "verified": false
+                "verified": false,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -4638,7 +5331,10 @@
                 "text_below_sign": "",
                 "street": "Hansbekedorp",
                 "facing": "N",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -4658,7 +5354,10 @@
                 "text_below_sign": "",
                 "street": "Hansbekedorp",
                 "facing": "S",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -4678,7 +5377,10 @@
                 "text_below_sign": "",
                 "street": "Hansbekedorp",
                 "facing": "E",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -4698,7 +5400,10 @@
                 "text_below_sign": "",
                 "street": "Hansbekedorp",
                 "facing": "S",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -4718,7 +5423,10 @@
                 "text_below_sign": "",
                 "street": "Hansbekedorp",
                 "facing": "S",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -4738,7 +5446,10 @@
                 "text_below_sign": "",
                 "street": "Hansbekedorp",
                 "facing": "N",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -4758,7 +5469,10 @@
                 "text_below_sign": "Als je mijn plaats inneemt, neem dan ook mijn handicap over.",
                 "street": "Hansbekedorp",
                 "facing": "N",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -4778,7 +5492,10 @@
                 "text_below_sign": "Als je mijn plaats inneemt, neem dan ook mijn handicap over.",
                 "street": "Hansbekedorp",
                 "facing": "N",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -4798,7 +5515,10 @@
                 "text_below_sign": "55m",
                 "street": "Hansbekedorp",
                 "facing": "N",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -4818,7 +5538,10 @@
                 "text_below_sign": "",
                 "street": "Hansbekedorp",
                 "facing": "N",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -4838,7 +5561,10 @@
                 "text_below_sign": "",
                 "street": "Hansbekedorp",
                 "facing": "E",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -4858,7 +5584,10 @@
                 "text_below_sign": "",
                 "street": "Hansbekedorp",
                 "facing": "E",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -4878,7 +5607,10 @@
                 "text_below_sign": "",
                 "street": "Hansbekedorp",
                 "facing": "E",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -4898,7 +5630,10 @@
                 "text_below_sign": "Uitgezonderd plaatselijk verkeer",
                 "street": "Kerkakkerstraat",
                 "facing": "E",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -4918,7 +5653,10 @@
                 "text_below_sign": "",
                 "street": "Hansbekedorp",
                 "facing": "S",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -4938,7 +5676,10 @@
                 "text_below_sign": "",
                 "street": "Hansbekedorp",
                 "facing": "S",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -4958,7 +5699,10 @@
                 "text_below_sign": "",
                 "street": "Hansbekedorp",
                 "facing": "S",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -4978,7 +5722,10 @@
                 "text_below_sign": "",
                 "street": "Merendreestraat",
                 "facing": "S",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -4998,7 +5745,10 @@
                 "text_below_sign": "",
                 "street": "Merendreestraat",
                 "facing": "S",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -5018,7 +5768,10 @@
                 "text_below_sign": "",
                 "street": "Merendreestraat",
                 "facing": "W",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -5038,7 +5791,10 @@
                 "text_below_sign": "",
                 "street": "Merendreestraat",
                 "facing": "N",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -5058,7 +5814,10 @@
                 "text_below_sign": "",
                 "street": "Merendreestraat",
                 "facing": "E",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -5078,7 +5837,10 @@
                 "text_below_sign": "",
                 "street": "Hansbekedorp",
                 "facing": "N",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -5098,7 +5860,10 @@
                 "text_below_sign": "Uitgezonderd dienstvoertuigen",
                 "street": "Merendreestraat",
                 "facing": "W",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -5118,7 +5883,10 @@
                 "text_below_sign": "Als je mijn plaats inneemt, neem dan ook mijn handicap over.",
                 "street": "Hansbekedorp",
                 "facing": "W",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -5138,7 +5906,10 @@
                 "text_below_sign": "Uitgezonderd dienstvoertuigen; Uitgezonderd fietsers",
                 "street": "Merendreestraat",
                 "facing": "S",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -5158,7 +5929,10 @@
                 "text_below_sign": "",
                 "street": "Merendreestraat",
                 "facing": "S",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -5178,7 +5952,10 @@
                 "text_below_sign": "",
                 "street": "Merendreestraat",
                 "facing": "W",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -5198,7 +5975,10 @@
                 "text_below_sign": "",
                 "street": "Hansbekedorp",
                 "facing": "W",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -5218,7 +5998,10 @@
                 "text_below_sign": "",
                 "street": "Merendreestraat",
                 "facing": "W",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -5238,7 +6021,10 @@
                 "text_below_sign": "",
                 "street": "Merendreestraat",
                 "facing": "E",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -5258,7 +6044,10 @@
                 "text_below_sign": "",
                 "street": "Merendreestraat",
                 "facing": "W",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -5278,7 +6067,10 @@
                 "text_below_sign": "",
                 "street": "Merendreestraat",
                 "facing": "E",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -5298,7 +6090,10 @@
                 "text_below_sign": "",
                 "street": "Merendreestraat",
                 "facing": "E",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -5318,7 +6113,10 @@
                 "text_below_sign": "",
                 "street": "Merendreestraat",
                 "facing": "N",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -5338,7 +6136,10 @@
                 "text_below_sign": "",
                 "street": "Merendreestraat",
                 "facing": "W",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -5358,7 +6159,10 @@
                 "text_below_sign": "",
                 "street": "Merendreestraat",
                 "facing": "W",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -5378,7 +6182,10 @@
                 "text_below_sign": "",
                 "street": "Merendreestraat",
                 "facing": "E",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -5398,7 +6205,10 @@
                 "text_below_sign": "",
                 "street": "Merendreestraat",
                 "facing": "E",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -5418,7 +6228,10 @@
                 "text_below_sign": "",
                 "street": "",
                 "facing": "N",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -5438,7 +6251,10 @@
                 "text_below_sign": "Uitgezonderd aangelanden",
                 "street": "",
                 "facing": "S",
-                "verified": false
+                "verified": false,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -5458,7 +6274,10 @@
                 "text_below_sign": "",
                 "street": "Merendreestraat",
                 "facing": "W",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -5478,7 +6297,10 @@
                 "text_below_sign": "50 m",
                 "street": "Merendreestraat",
                 "facing": "W",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -5498,7 +6320,10 @@
                 "text_below_sign": "",
                 "street": "Merendreestraat",
                 "facing": "W",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -5518,7 +6343,10 @@
                 "text_below_sign": "",
                 "street": "Merendreestraat",
                 "facing": "S",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -5538,7 +6366,10 @@
                 "text_below_sign": "",
                 "street": "Hansbekestraat",
                 "facing": "W",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -5558,7 +6389,10 @@
                 "text_below_sign": "",
                 "street": "Hansbekestraat",
                 "facing": "W",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -5578,7 +6412,10 @@
                 "text_below_sign": "",
                 "street": "Merendreestraat",
                 "facing": "W",
-                "verified": false
+                "verified": false,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -5598,7 +6435,10 @@
                 "text_below_sign": "",
                 "street": "Lambroekstraat",
                 "facing": "E",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -5618,7 +6458,10 @@
                 "text_below_sign": "",
                 "street": "Lambroekstraat",
                 "facing": "W",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -5638,7 +6481,10 @@
                 "text_below_sign": "",
                 "street": "Lambroekstraat",
                 "facing": "W",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -5658,7 +6504,10 @@
                 "text_below_sign": "",
                 "street": "Lambroekstraat",
                 "facing": "W",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -5678,7 +6527,10 @@
                 "text_below_sign": "",
                 "street": "Lambroekstraat",
                 "facing": "E",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -5698,7 +6550,10 @@
                 "text_below_sign": "150m",
                 "street": "Lambroekstraat",
                 "facing": "E",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -5718,7 +6573,10 @@
                 "text_below_sign": "",
                 "street": "Overbroekkouterslag",
                 "facing": "E",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -5738,7 +6596,10 @@
                 "text_below_sign": "",
                 "street": "Lambroekstraat",
                 "facing": "W",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -5758,7 +6619,10 @@
                 "text_below_sign": "",
                 "street": "Lambroekstraat",
                 "facing": "E",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -5778,7 +6642,10 @@
                 "text_below_sign": "150m",
                 "street": "Grote Heirenthoek",
                 "facing": "N",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -5798,7 +6665,10 @@
                 "text_below_sign": "",
                 "street": "Grote Heirenthoek",
                 "facing": "S",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -5818,7 +6688,10 @@
                 "text_below_sign": "",
                 "street": "Hansbekestraat",
                 "facing": "W",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -5838,7 +6711,10 @@
                 "text_below_sign": "",
                 "street": "Hansbekestraat",
                 "facing": "W",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -5858,7 +6734,10 @@
                 "text_below_sign": "",
                 "street": "Hansbekestraat",
                 "facing": "W",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -5878,7 +6757,10 @@
                 "text_below_sign": "",
                 "street": "Hansbekestraat",
                 "facing": "E",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -5898,7 +6780,10 @@
                 "text_below_sign": "",
                 "street": "Hansbekestraat",
                 "facing": "E",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -5918,7 +6803,10 @@
                 "text_below_sign": "",
                 "street": "Hansbekestraat",
                 "facing": "W",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -5938,7 +6826,10 @@
                 "text_below_sign": "",
                 "street": "Hansbekestraat",
                 "facing": "W",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -5958,7 +6849,10 @@
                 "text_below_sign": "",
                 "street": "Voordestraat",
                 "facing": "N",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -5978,7 +6872,10 @@
                 "text_below_sign": "",
                 "street": "Hansbekestraat",
                 "facing": "E",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -5998,7 +6895,10 @@
                 "text_below_sign": "",
                 "street": "Hansbekestraat",
                 "facing": "E",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -6018,7 +6918,10 @@
                 "text_below_sign": "",
                 "street": "Hansbekestraat",
                 "facing": "E",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -6038,7 +6941,10 @@
                 "text_below_sign": "",
                 "street": "Hansbekestraat",
                 "facing": "E",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -6058,7 +6964,10 @@
                 "text_below_sign": "",
                 "street": "Merendreestraat",
                 "facing": "N",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -6078,7 +6987,10 @@
                 "text_below_sign": "Uitgezonderd aangelanden",
                 "street": null,
                 "facing": "E",
-                "verified": false
+                "verified": false,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -6098,7 +7010,10 @@
                 "text_below_sign": "75 m",
                 "street": "Hansbekedorp",
                 "facing": "N",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -6118,7 +7033,10 @@
                 "text_below_sign": "",
                 "street": "Voordestraat",
                 "facing": "S",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -6138,7 +7056,10 @@
                 "text_below_sign": "",
                 "street": "Kerkakkerstraat",
                 "facing": "W",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -6158,7 +7079,10 @@
                 "text_below_sign": "",
                 "street": "Begijnhoflaan",
                 "facing": "E",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -6178,7 +7102,10 @@
                 "text_below_sign": "",
                 "street": "Melkerijstraat",
                 "facing": "E",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -6198,7 +7125,10 @@
                 "text_below_sign": "Uitgezonderd fietsers",
                 "street": "Melkerijstraat",
                 "facing": "E",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -6218,7 +7148,10 @@
                 "text_below_sign": "",
                 "street": "Melkerijstraat",
                 "facing": "W",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -6238,7 +7171,10 @@
                 "text_below_sign": "",
                 "street": "Melkerijstraat",
                 "facing": "W",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -6258,7 +7194,10 @@
                 "text_below_sign": "",
                 "street": "Melkerijstraat",
                 "facing": "E",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -6278,7 +7217,10 @@
                 "text_below_sign": "",
                 "street": "Melkerijstraat",
                 "facing": "W",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -6298,7 +7240,10 @@
                 "text_below_sign": "Uitgezonderd plaatselijk verkeer",
                 "street": "Melkerijstraat",
                 "facing": "E",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -6318,7 +7263,10 @@
                 "text_below_sign": "M2",
                 "street": "Kerkakkerstraat",
                 "facing": "E",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -6338,7 +7286,10 @@
                 "text_below_sign": "",
                 "street": "Hansbekedorp",
                 "facing": "N",
-                "verified": false
+                "verified": false,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -6358,7 +7309,10 @@
                 "text_below_sign": "Uitgezonderd Ceremonie wagens; E0b",
                 "street": "Hansbekedorp",
                 "facing": "N",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -6378,7 +7332,10 @@
                 "text_below_sign": "Uitgezonderd Ceremonie wagens; E0a",
                 "street": "Hansbekedorp",
                 "facing": "N",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -6398,7 +7355,10 @@
                 "text_below_sign": "",
                 "street": "Kerkakkerstraat",
                 "facing": "W",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -6418,7 +7378,10 @@
                 "text_below_sign": "",
                 "street": "Hansbekedorp",
                 "facing": "S",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -6438,7 +7401,10 @@
                 "text_below_sign": "",
                 "street": "Hansbekedorp",
                 "facing": "N",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -6458,7 +7424,10 @@
                 "text_below_sign": "",
                 "street": "Voordestraat",
                 "facing": "N",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -6478,7 +7447,10 @@
                 "text_below_sign": "",
                 "street": "Hansbekedorp",
                 "facing": "N",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -6498,7 +7470,10 @@
                 "text_below_sign": "",
                 "street": "Hansbekedorp",
                 "facing": "E",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -6518,7 +7493,10 @@
                 "text_below_sign": "",
                 "street": "Hansbekedorp",
                 "facing": "S",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -6538,7 +7516,10 @@
                 "text_below_sign": "",
                 "street": "Hansbekedorp",
                 "facing": "S",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -6558,7 +7539,10 @@
                 "text_below_sign": "",
                 "street": "Nevelestraat",
                 "facing": "N",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -6578,7 +7562,10 @@
                 "text_below_sign": "",
                 "street": "Nevelestraat",
                 "facing": "N",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -6598,7 +7585,10 @@
                 "text_below_sign": "",
                 "street": "Nevelestraat",
                 "facing": "N",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -6618,7 +7608,10 @@
                 "text_below_sign": "",
                 "street": "Nevelestraat",
                 "facing": "N",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -6638,7 +7631,10 @@
                 "text_below_sign": "",
                 "street": "Nevelestraat",
                 "facing": "E",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -6658,7 +7654,10 @@
                 "text_below_sign": "",
                 "street": "Nevelestraat",
                 "facing": "E",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -6678,7 +7677,10 @@
                 "text_below_sign": "",
                 "street": "Kerkakkerstraat",
                 "facing": "W",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -6698,7 +7700,10 @@
                 "text_below_sign": "",
                 "street": "Kerkakkerstraat",
                 "facing": "E",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -6718,7 +7723,10 @@
                 "text_below_sign": "M2",
                 "street": "Kerkakkerstraat",
                 "facing": "W",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -6738,7 +7746,10 @@
                 "text_below_sign": "",
                 "street": "Hansbekedorp",
                 "facing": "N",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -6758,7 +7769,10 @@
                 "text_below_sign": "",
                 "street": "Hansbekedorp",
                 "facing": "N",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -6778,7 +7792,10 @@
                 "text_below_sign": "",
                 "street": "Hansbekedorp",
                 "facing": "W",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -6798,7 +7815,10 @@
                 "text_below_sign": "",
                 "street": "Hansbekedorp",
                 "facing": "W",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -6818,7 +7838,10 @@
                 "text_below_sign": "",
                 "street": "Hansbekedorp",
                 "facing": "W",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -6838,7 +7861,10 @@
                 "text_below_sign": "",
                 "street": "Hansbekedorp",
                 "facing": "W",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -6858,7 +7884,10 @@
                 "text_below_sign": "",
                 "street": "Hansbekedorp",
                 "facing": "W",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -6878,7 +7907,10 @@
                 "text_below_sign": "",
                 "street": "Hansbekedorp",
                 "facing": "W",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -6898,7 +7930,10 @@
                 "text_below_sign": "",
                 "street": "Hansbekedorp",
                 "facing": "E",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -6918,7 +7953,10 @@
                 "text_below_sign": "",
                 "street": "Hansbekedorp",
                 "facing": "E",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -6938,7 +7976,10 @@
                 "text_below_sign": "",
                 "street": "Hansbekedorp",
                 "facing": "S",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -6958,7 +7999,10 @@
                 "text_below_sign": "",
                 "street": "Hansbekedorp",
                 "facing": "S",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -6978,7 +8022,10 @@
                 "text_below_sign": "",
                 "street": "Hansbekedorp",
                 "facing": "N",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -6998,7 +8045,10 @@
                 "text_below_sign": "",
                 "street": "Hansbekedorp",
                 "facing": "N",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -7018,7 +8068,10 @@
                 "text_below_sign": "",
                 "street": "Hansbekedorp",
                 "facing": "S",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -7038,7 +8091,10 @@
                 "text_below_sign": "",
                 "street": "Doornbosstraat",
                 "facing": "N",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -7058,7 +8114,10 @@
                 "text_below_sign": "",
                 "street": "Lindestraat",
                 "facing": "E",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -7078,7 +8137,10 @@
                 "text_below_sign": "",
                 "street": "Hansbekedorp",
                 "facing": "S",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -7098,7 +8160,10 @@
                 "text_below_sign": "",
                 "street": "Hansbekedorp",
                 "facing": "S",
-                "verified": false
+                "verified": false,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -7118,7 +8183,10 @@
                 "text_below_sign": "",
                 "street": "Hansbekedorp",
                 "facing": "N",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -7138,7 +8206,10 @@
                 "text_below_sign": "",
                 "street": "Hansbekedorp",
                 "facing": "N",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -7158,7 +8229,10 @@
                 "text_below_sign": "",
                 "street": "Hansbekedorp",
                 "facing": "N",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -7178,7 +8252,10 @@
                 "text_below_sign": "",
                 "street": "Vaartstraat",
                 "facing": "S",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -7198,7 +8275,10 @@
                 "text_below_sign": "",
                 "street": "Vaartstraat",
                 "facing": "S",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -7218,7 +8298,10 @@
                 "text_below_sign": "50m",
                 "street": "Vaartstraat",
                 "facing": "S",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -7238,7 +8321,10 @@
                 "text_below_sign": "",
                 "street": "Vaartstraat",
                 "facing": "S",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -7258,7 +8344,10 @@
                 "text_below_sign": "",
                 "street": "Vaartstraat",
                 "facing": "N",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -7278,7 +8367,10 @@
                 "text_below_sign": "",
                 "street": "Vaartstraat",
                 "facing": "N",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -7298,7 +8390,10 @@
                 "text_below_sign": "100m",
                 "street": "Vaartstraat",
                 "facing": "N",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -7318,7 +8413,10 @@
                 "text_below_sign": "",
                 "street": "Hansbekedorp",
                 "facing": "N",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -7338,7 +8436,10 @@
                 "text_below_sign": "",
                 "street": "Voordestraat",
                 "facing": "E",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -7358,7 +8459,10 @@
                 "text_below_sign": "",
                 "street": "Voordestraat",
                 "facing": "W",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -7378,7 +8482,10 @@
                 "text_below_sign": "",
                 "street": "Voordestraat",
                 "facing": "W",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -7398,7 +8505,10 @@
                 "text_below_sign": "150m",
                 "street": "Voordestraat",
                 "facing": "E",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -7418,7 +8528,10 @@
                 "text_below_sign": "",
                 "street": "Voordestraat",
                 "facing": "E",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -7438,7 +8551,10 @@
                 "text_below_sign": "",
                 "street": "Hammestraat",
                 "facing": "S",
-                "verified": false
+                "verified": false,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -7458,7 +8574,10 @@
                 "text_below_sign": "",
                 "street": "Petendonkstraat",
                 "facing": "S",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -7478,7 +8597,10 @@
                 "text_below_sign": "",
                 "street": "Petendonkstraat",
                 "facing": "W",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -7498,7 +8620,10 @@
                 "text_below_sign": "Uitgez. diensten en aangelanden en met toelating",
                 "street": "Vaartstraat",
                 "facing": "W",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -7518,7 +8643,10 @@
                 "text_below_sign": "",
                 "street": "Spenningstraat",
                 "facing": "N",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -7538,7 +8666,10 @@
                 "text_below_sign": "",
                 "street": "Spenningstraat",
                 "facing": "S",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -7558,7 +8689,10 @@
                 "text_below_sign": "Uitrit vrachtwagens",
                 "street": "Spenningstraat",
                 "facing": "N",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -7578,7 +8712,10 @@
                 "text_below_sign": "",
                 "street": "Spenningstraat",
                 "facing": "N",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -7598,7 +8735,10 @@
                 "text_below_sign": "",
                 "street": "Spenningstraat",
                 "facing": "N",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -7618,7 +8758,10 @@
                 "text_below_sign": "",
                 "street": "Spenningstraat",
                 "facing": "N",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -7638,7 +8781,10 @@
                 "text_below_sign": "",
                 "street": "Vaartstraat",
                 "facing": "N",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -7658,7 +8804,10 @@
                 "text_below_sign": "",
                 "street": "Kouterken",
                 "facing": "N",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -7678,7 +8827,10 @@
                 "text_below_sign": "",
                 "street": "Boerestraat",
                 "facing": "E",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -7698,7 +8850,10 @@
                 "text_below_sign": "",
                 "street": "Merendreestraat",
                 "facing": "E",
-                "verified": false
+                "verified": false,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -7718,7 +8873,10 @@
                 "text_below_sign": "",
                 "street": "Merendreestraat",
                 "facing": "E",
-                "verified": false
+                "verified": false,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -7738,7 +8896,10 @@
                 "text_below_sign": "",
                 "street": "Vaartstraat",
                 "facing": "N",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -7758,7 +8919,10 @@
                 "text_below_sign": "",
                 "street": "Vaartstraat",
                 "facing": "N",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -7778,7 +8942,10 @@
                 "text_below_sign": "",
                 "street": "Vaartstraat",
                 "facing": "N",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -7798,7 +8965,10 @@
                 "text_below_sign": "",
                 "street": "Kouterken",
                 "facing": "E",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -7818,7 +8988,10 @@
                 "text_below_sign": "",
                 "street": "Vaartstraat",
                 "facing": "S",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -7838,7 +9011,10 @@
                 "text_below_sign": "",
                 "street": "Vaartstraat",
                 "facing": "S",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -7858,7 +9034,10 @@
                 "text_below_sign": "",
                 "street": "Vaartstraat",
                 "facing": "S",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -7878,7 +9057,10 @@
                 "text_below_sign": "",
                 "street": "Vaartstraat",
                 "facing": "N",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -7898,7 +9080,10 @@
                 "text_below_sign": "",
                 "street": "Vaartstraat",
                 "facing": "N",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -7918,7 +9103,10 @@
                 "text_below_sign": "",
                 "street": "Vaartstraat",
                 "facing": "N",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -7938,7 +9126,10 @@
                 "text_below_sign": "",
                 "street": "Kouterken",
                 "facing": "W",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -7958,7 +9149,10 @@
                 "text_below_sign": "",
                 "street": "Kouterken",
                 "facing": "N",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -7978,7 +9172,10 @@
                 "text_below_sign": "",
                 "street": "Kouterken",
                 "facing": "E",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -7998,7 +9195,10 @@
                 "text_below_sign": "50 m",
                 "street": "Hammestraat",
                 "facing": "E",
-                "verified": false
+                "verified": false,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -8018,7 +9218,10 @@
                 "text_below_sign": "",
                 "street": "Hammestraat",
                 "facing": "E",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -8038,7 +9241,10 @@
                 "text_below_sign": "",
                 "street": "Hammestraat",
                 "facing": "E",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -8058,7 +9264,10 @@
                 "text_below_sign": "",
                 "street": "Hammestraat",
                 "facing": "W",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -8078,7 +9287,10 @@
                 "text_below_sign": "",
                 "street": "Hammestraat",
                 "facing": "E",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -8098,7 +9310,10 @@
                 "text_below_sign": "",
                 "street": "Vaartstraat",
                 "facing": "S",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -8118,7 +9333,10 @@
                 "text_below_sign": "70",
                 "street": "Vaartstraat",
                 "facing": "S",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -8138,7 +9356,10 @@
                 "text_below_sign": "",
                 "street": "Vaartstraat",
                 "facing": "S",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -8158,7 +9379,10 @@
                 "text_below_sign": "",
                 "street": "Spenningstraat",
                 "facing": "S",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -8178,7 +9402,10 @@
                 "text_below_sign": "70",
                 "street": "Spenningstraat",
                 "facing": "S",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -8198,7 +9425,10 @@
                 "text_below_sign": "",
                 "street": "Spenningstraat",
                 "facing": "S",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -8218,7 +9448,10 @@
                 "text_below_sign": "Uitrit vrachtwagens",
                 "street": "Spenningstraat",
                 "facing": "S",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -8238,7 +9471,10 @@
                 "text_below_sign": "A15a",
                 "street": "Spenningstraat",
                 "facing": "S",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -8258,7 +9494,10 @@
                 "text_below_sign": "",
                 "street": "Spenningstraat",
                 "facing": "S",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -8278,7 +9517,10 @@
                 "text_below_sign": "70",
                 "street": "Spenningstraat",
                 "facing": "S",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -8298,7 +9540,10 @@
                 "text_below_sign": "",
                 "street": "Spenningstraat",
                 "facing": "S",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -8318,7 +9563,10 @@
                 "text_below_sign": "",
                 "street": "Spenningstraat",
                 "facing": "N",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -8338,7 +9586,10 @@
                 "text_below_sign": "70",
                 "street": "Spenningstraat",
                 "facing": "N",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -8358,7 +9609,10 @@
                 "text_below_sign": "",
                 "street": "Spenningstraat",
                 "facing": "N",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -8378,7 +9632,10 @@
                 "text_below_sign": "",
                 "street": "Vaartstraat",
                 "facing": "W",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -8398,7 +9655,10 @@
                 "text_below_sign": "",
                 "street": "Vaartstraat",
                 "facing": "N",
-                "verified": false
+                "verified": false,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -8418,7 +9678,10 @@
                 "text_below_sign": "",
                 "street": "Vaartstraat",
                 "facing": "S",
-                "verified": false
+                "verified": false,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -8438,7 +9701,10 @@
                 "text_below_sign": "",
                 "street": "Vaartstraat",
                 "facing": "W",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -8458,7 +9724,10 @@
                 "text_below_sign": "",
                 "street": "Vaartstraat",
                 "facing": "N",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -8478,7 +9747,10 @@
                 "text_below_sign": "",
                 "street": "Vaartstraat",
                 "facing": "N",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -8498,7 +9770,10 @@
                 "text_below_sign": "",
                 "street": "Vaartstraat",
                 "facing": "N",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -8518,7 +9793,10 @@
                 "text_below_sign": "",
                 "street": "Vaartstraat",
                 "facing": "N",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -8538,7 +9816,10 @@
                 "text_below_sign": "",
                 "street": "Vaartstraat",
                 "facing": "N",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -8558,7 +9839,10 @@
                 "text_below_sign": "",
                 "street": "Vaartstraat",
                 "facing": "N",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -8578,7 +9862,10 @@
                 "text_below_sign": "",
                 "street": "Vaartstraat",
                 "facing": "E",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -8598,7 +9885,10 @@
                 "text_below_sign": "",
                 "street": "Vaartstraat",
                 "facing": "W",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -8618,7 +9908,10 @@
                 "text_below_sign": "",
                 "street": "Vaartstraat",
                 "facing": "W",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -8638,7 +9931,10 @@
                 "text_below_sign": "",
                 "street": "Vaartstraat",
                 "facing": "W",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -8658,7 +9954,10 @@
                 "text_below_sign": "",
                 "street": "Vaartstraat",
                 "facing": "W",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -8678,7 +9977,10 @@
                 "text_below_sign": "",
                 "street": "Warandestraat",
                 "facing": "E",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -8698,7 +10000,10 @@
                 "text_below_sign": "",
                 "street": "Warandestraat",
                 "facing": "W",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -8718,7 +10023,10 @@
                 "text_below_sign": "",
                 "street": "Warandestraat",
                 "facing": "E",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -8738,7 +10046,10 @@
                 "text_below_sign": "",
                 "street": "Warandestraat",
                 "facing": "E",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -8758,7 +10069,10 @@
                 "text_below_sign": "",
                 "street": "Warandestraat",
                 "facing": "N",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -8778,7 +10092,10 @@
                 "text_below_sign": "",
                 "street": "Warandestraat",
                 "facing": "W",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -8798,7 +10115,10 @@
                 "text_below_sign": "",
                 "street": "Warandestraat",
                 "facing": "E",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -8818,7 +10138,10 @@
                 "text_below_sign": "Stop 150m",
                 "street": "Warandestraat",
                 "facing": "W",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -8838,7 +10161,10 @@
                 "text_below_sign": "",
                 "street": "Warandestraat",
                 "facing": "E",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -8858,7 +10184,10 @@
                 "text_below_sign": "",
                 "street": "Warandestraat",
                 "facing": "E",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -8878,7 +10207,10 @@
                 "text_below_sign": "",
                 "street": "Warandestraat",
                 "facing": "S",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -8898,7 +10230,10 @@
                 "text_below_sign": "",
                 "street": "Warandestraat",
                 "facing": "W",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -8918,7 +10253,10 @@
                 "text_below_sign": "",
                 "street": "Warandestraat",
                 "facing": "E",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -8938,7 +10276,10 @@
                 "text_below_sign": "Uitgezonderd fietsers en rolstoelgebruikers",
                 "street": "Warandestraat",
                 "facing": "W",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -8958,7 +10299,10 @@
                 "text_below_sign": "",
                 "street": "",
                 "facing": "W",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -8978,7 +10322,10 @@
                 "text_below_sign": "",
                 "street": "",
                 "facing": "E",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -8998,7 +10345,10 @@
                 "text_below_sign": "",
                 "street": "Hansbekedorp",
                 "facing": "N",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -9018,7 +10368,10 @@
                 "text_below_sign": "",
                 "street": "Hansbekedorp",
                 "facing": "N",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -9038,7 +10391,10 @@
                 "text_below_sign": "",
                 "street": "Hansbekedorp",
                 "facing": "S",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -9058,7 +10414,10 @@
                 "text_below_sign": "",
                 "street": "Hansbekedorp",
                 "facing": "S",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -9078,7 +10437,10 @@
                 "text_below_sign": "",
                 "street": "Warandestraat",
                 "facing": "W",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -9098,7 +10460,10 @@
                 "text_below_sign": "",
                 "street": "Warandestraat",
                 "facing": "E",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -9118,7 +10483,10 @@
                 "text_below_sign": "",
                 "street": "Warandestraat",
                 "facing": "W",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -9138,7 +10506,10 @@
                 "text_below_sign": "",
                 "street": "Warandestraat",
                 "facing": "E",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -9158,7 +10529,10 @@
                 "text_below_sign": "",
                 "street": "Warandestraat",
                 "facing": "W",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -9178,7 +10552,10 @@
                 "text_below_sign": "",
                 "street": "Warandestraat",
                 "facing": "W",
-                "verified": null
+                "verified": null,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -9198,7 +10575,10 @@
                 "text_below_sign": "",
                 "street": "Warandestraat",
                 "facing": "S",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -9218,7 +10598,10 @@
                 "text_below_sign": "",
                 "street": "Warandestraat",
                 "facing": "N",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -9238,7 +10621,10 @@
                 "text_below_sign": "",
                 "street": "Warandestraat",
                 "facing": "W",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -9258,7 +10644,10 @@
                 "text_below_sign": "",
                 "street": "Warandestraat",
                 "facing": "W",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -9278,7 +10667,10 @@
                 "text_below_sign": "",
                 "street": "Warandestraat",
                 "facing": "S",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -9298,7 +10690,10 @@
                 "text_below_sign": "",
                 "street": "Warandestraat",
                 "facing": "S",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -9318,7 +10713,10 @@
                 "text_below_sign": "",
                 "street": "Warandestraat",
                 "facing": "S",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         },
         {
@@ -9338,7 +10736,10 @@
                 "text_below_sign": "",
                 "street": "Melkerijstraat",
                 "facing": "W",
-                "verified": true
+                "verified": true,
+                "marker-size": "small",
+                "marker-color": "#7e7e7e",
+                "marker-symbol": "x"
             }
         }
     ]
