@@ -480,7 +480,7 @@
                 "facing": "E",
                 "verified": true,
                 "marker-size": "small",
-                "marker-color": "#e00000",
+                "marker-color": "#7e7e7e",
                 "marker-symbol": "circle"
             }
         },
@@ -733,7 +733,7 @@
                 "facing": "N",
                 "verified": true,
                 "marker-size": "small",
-                "marker-color": "#e00000",
+                "marker-color": "#7e7e7e",
                 "marker-symbol": "circle"
             }
         },
@@ -2757,7 +2757,7 @@
                 "facing": "S",
                 "verified": true,
                 "marker-size": "small",
-                "marker-color": "#e00000",
+                "marker-color": "#7e7e7e",
                 "marker-symbol": "circle"
             }
         },
@@ -2780,7 +2780,7 @@
                 "facing": "N",
                 "verified": true,
                 "marker-size": "small",
-                "marker-color": "#e00000",
+                "marker-color": "#7e7e7e",
                 "marker-symbol": "circle"
             }
         },
@@ -2803,7 +2803,7 @@
                 "facing": "S",
                 "verified": true,
                 "marker-size": "small",
-                "marker-color": "#e00000",
+                "marker-color": "#7e7e7e",
                 "marker-symbol": "circle"
             }
         },
@@ -2826,7 +2826,7 @@
                 "facing": "N",
                 "verified": true,
                 "marker-size": "small",
-                "marker-color": "#e00000",
+                "marker-color": "#7e7e7e",
                 "marker-symbol": "circle"
             }
         },
@@ -4229,7 +4229,7 @@
                 "facing": "W",
                 "verified": false,
                 "marker-size": "small",
-                "marker-color": "#e00000",
+                "marker-color": "#7e7e7e",
                 "marker-symbol": "circle"
             }
         },
@@ -5195,7 +5195,7 @@
                 "facing": "N",
                 "verified": true,
                 "marker-size": "small",
-                "marker-color": "#e00000",
+                "marker-color": "#7e7e7e",
                 "marker-symbol": "circle"
             }
         },
@@ -5264,7 +5264,7 @@
                 "facing": "N",
                 "verified": true,
                 "marker-size": "small",
-                "marker-color": "#e00000",
+                "marker-color": "#7e7e7e",
                 "marker-symbol": "circle"
             }
         },
@@ -6414,7 +6414,7 @@
                 "facing": "W",
                 "verified": false,
                 "marker-size": "small",
-                "marker-color": "#e00000",
+                "marker-color": "#7e7e7e",
                 "marker-symbol": "circle"
             }
         },
@@ -6966,7 +6966,7 @@
                 "facing": "N",
                 "verified": true,
                 "marker-size": "small",
-                "marker-color": "#e00000",
+                "marker-color": "#7e7e7e",
                 "marker-symbol": "circle"
             }
         },
@@ -8093,7 +8093,7 @@
                 "facing": "N",
                 "verified": true,
                 "marker-size": "small",
-                "marker-color": "#e00000",
+                "marker-color": "#7e7e7e",
                 "marker-symbol": "circle"
             }
         },
@@ -8162,7 +8162,7 @@
                 "facing": "S",
                 "verified": false,
                 "marker-size": "small",
-                "marker-color": "#e00000",
+                "marker-color": "#7e7e7e",
                 "marker-symbol": "circle"
             }
         },
@@ -8369,7 +8369,7 @@
                 "facing": "N",
                 "verified": true,
                 "marker-size": "small",
-                "marker-color": "#e00000",
+                "marker-color": "#7e7e7e",
                 "marker-symbol": "circle"
             }
         },
@@ -8576,7 +8576,7 @@
                 "facing": "S",
                 "verified": null,
                 "marker-size": "small",
-                "marker-color": "#e00000",
+                "marker-color": "#7e7e7e",
                 "marker-symbol": "circle"
             }
         },
@@ -9657,7 +9657,7 @@
                 "facing": "N",
                 "verified": false,
                 "marker-size": "small",
-                "marker-color": "#e00000",
+                "marker-color": "#7e7e7e",
                 "marker-symbol": "circle"
             }
         },
@@ -9680,7 +9680,7 @@
                 "facing": "S",
                 "verified": false,
                 "marker-size": "small",
-                "marker-color": "#e00000",
+                "marker-color": "#7e7e7e",
                 "marker-symbol": "circle"
             }
         },
