@@ -4,7 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 1,
+                "id": 1,
                 "code": "B17",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -24,7 +24,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 2,
+                "id": 2,
                 "code": "F1",
                 "code_prefix": "F",
                 "text_on_sign": "Hansbeke, Nevele",
@@ -44,7 +44,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 3,
+                "id": 3,
                 "code": "C21",
                 "code_prefix": "C",
                 "text_on_sign": "3,5t",
@@ -64,7 +64,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 4,
+                "id": 4,
                 "code": "B17",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -84,7 +84,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 5,
+                "id": 5,
                 "code": "C21",
                 "code_prefix": "C",
                 "text_on_sign": "3,5t",
@@ -104,7 +104,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 6,
+                "id": 6,
                 "code": "F3a",
                 "code_prefix": "F",
                 "text_on_sign": "Hansbeke, Nevele",
@@ -124,7 +124,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 7,
+                "id": 7,
                 "code": "F1",
                 "code_prefix": "F",
                 "text_on_sign": "Hansbeke, Nevele",
@@ -144,7 +144,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 8,
+                "id": 8,
                 "code": "D1d",
                 "code_prefix": "D",
                 "text_on_sign": "",
@@ -164,7 +164,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 9,
+                "id": 9,
                 "code": "D1d",
                 "code_prefix": "D",
                 "text_on_sign": "",
@@ -184,7 +184,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 10,
+                "id": 10,
                 "code": "C3",
                 "code_prefix": "C",
                 "text_on_sign": "",
@@ -204,7 +204,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 11,
+                "id": 11,
                 "code": "B17",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -224,7 +224,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 12,
+                "id": 12,
                 "code": "E7",
                 "code_prefix": "E",
                 "text_on_sign": "",
@@ -244,7 +244,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 13,
+                "id": 13,
                 "code": "A41",
                 "code_prefix": "A",
                 "text_on_sign": "",
@@ -264,7 +264,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 14,
+                "id": 14,
                 "code": "B15f",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -284,7 +284,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 15,
+                "id": 15,
                 "code": "B17",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -304,7 +304,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 16,
+                "id": 16,
                 "code": "E5",
                 "code_prefix": "E",
                 "text_on_sign": "",
@@ -324,7 +324,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 17,
+                "id": 17,
                 "code": "E7",
                 "code_prefix": "E",
                 "text_on_sign": "",
@@ -344,7 +344,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 18,
+                "id": 18,
                 "code": "B17",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -364,7 +364,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 19,
+                "id": 19,
                 "code": "B17",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -384,7 +384,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 20,
+                "id": 20,
                 "code": "B17",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -404,7 +404,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 21,
+                "id": 21,
                 "code": "",
                 "code_prefix": "",
                 "text_on_sign": "Spelende kinderen",
@@ -424,7 +424,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 22,
+                "id": 22,
                 "code": "B17",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -444,7 +444,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 23,
+                "id": 23,
                 "code": "E5",
                 "code_prefix": "E",
                 "text_on_sign": "",
@@ -464,7 +464,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 24,
+                "id": 24,
                 "code": "E5",
                 "code_prefix": "E",
                 "text_on_sign": "",
@@ -484,7 +484,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 25,
+                "id": 25,
                 "code": "B15c",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -504,7 +504,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 26,
+                "id": 26,
                 "code": "A47",
                 "code_prefix": "A",
                 "text_on_sign": "",
@@ -524,7 +524,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 27,
+                "id": 27,
                 "code": "A47",
                 "code_prefix": "A",
                 "text_on_sign": "",
@@ -544,7 +544,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 28,
+                "id": 28,
                 "code": "A47",
                 "code_prefix": "A",
                 "text_on_sign": "",
@@ -564,7 +564,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 29,
+                "id": 29,
                 "code": "A47",
                 "code_prefix": "A",
                 "text_on_sign": "",
@@ -584,7 +584,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 30,
+                "id": 30,
                 "code": "A47",
                 "code_prefix": "A",
                 "text_on_sign": "",
@@ -604,7 +604,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 31,
+                "id": 31,
                 "code": "B9",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -624,7 +624,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 32,
+                "id": 32,
                 "code": "",
                 "code_prefix": "",
                 "text_on_sign": "Spelende kinderen",
@@ -644,7 +644,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 33,
+                "id": 33,
                 "code": "F45",
                 "code_prefix": "F",
                 "text_on_sign": "",
@@ -664,7 +664,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 34,
+                "id": 34,
                 "code": "F3",
                 "code_prefix": "F",
                 "text_on_sign": "Hansbeke, Nevele",
@@ -684,7 +684,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 35,
+                "id": 35,
                 "code": "F45",
                 "code_prefix": "F",
                 "text_on_sign": "",
@@ -704,7 +704,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 36,
+                "id": 36,
                 "code": "F34b1",
                 "code_prefix": "F",
                 "text_on_sign": "Lotenhulle",
@@ -724,7 +724,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 37,
+                "id": 37,
                 "code": "F34b1",
                 "code_prefix": "F",
                 "text_on_sign": "Hansbeke",
@@ -744,7 +744,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 38,
+                "id": 38,
                 "code": "F34b1",
                 "code_prefix": "F",
                 "text_on_sign": "Hansbeke",
@@ -764,7 +764,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 39,
+                "id": 39,
                 "code": "F34b1",
                 "code_prefix": "F",
                 "text_on_sign": "Lotenhulle",
@@ -784,7 +784,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 40,
+                "id": 40,
                 "code": "F34a",
                 "code_prefix": "F",
                 "text_on_sign": "voetbalterrein Hansbeke",
@@ -804,7 +804,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 41,
+                "id": 41,
                 "code": "F34b1",
                 "code_prefix": "F",
                 "text_on_sign": "Hansbeke",
@@ -824,7 +824,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 42,
+                "id": 42,
                 "code": "F34b1",
                 "code_prefix": "F",
                 "text_on_sign": "Lotenhulle",
@@ -844,7 +844,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 43,
+                "id": 43,
                 "code": "C21",
                 "code_prefix": "C",
                 "text_on_sign": "3,5t",
@@ -864,7 +864,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 44,
+                "id": 44,
                 "code": "F34b1",
                 "code_prefix": "F",
                 "text_on_sign": "Lotenhulle",
@@ -884,7 +884,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 45,
+                "id": 45,
                 "code": "F34b1",
                 "code_prefix": "F",
                 "text_on_sign": "Hansbeke",
@@ -904,7 +904,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 46,
+                "id": 46,
                 "code": "B17",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -924,7 +924,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 47,
+                "id": 47,
                 "code": "B17",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -944,7 +944,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 48,
+                "id": 48,
                 "code": "B17",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -964,7 +964,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 49,
+                "id": 49,
                 "code": "F34b1",
                 "code_prefix": "F",
                 "text_on_sign": "Hansbeke",
@@ -984,7 +984,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 50,
+                "id": 50,
                 "code": "F34b1",
                 "code_prefix": "F",
                 "text_on_sign": "Lotenhulle",
@@ -1004,7 +1004,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 51,
+                "id": 51,
                 "code": "A13",
                 "code_prefix": "A",
                 "text_on_sign": "",
@@ -1024,7 +1024,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 52,
+                "id": 52,
                 "code": "F1",
                 "code_prefix": "F",
                 "text_on_sign": "Hansbeke, Nevele",
@@ -1044,7 +1044,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 53,
+                "id": 53,
                 "code": "F3",
                 "code_prefix": "F",
                 "text_on_sign": "Hansbeke, Nevele",
@@ -1064,7 +1064,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 54,
+                "id": 54,
                 "code": "F43",
                 "code_prefix": "F",
                 "text_on_sign": "Hansbeke, Nevele",
@@ -1084,7 +1084,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 55,
+                "id": 55,
                 "code": "B17",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -1104,7 +1104,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 56,
+                "id": 56,
                 "code": "B17",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -1124,7 +1124,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 57,
+                "id": 57,
                 "code": "B17",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -1144,7 +1144,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 58,
+                "id": 58,
                 "code": "B17",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -1164,7 +1164,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 59,
+                "id": 59,
                 "code": "C3",
                 "code_prefix": "C",
                 "text_on_sign": "",
@@ -1184,7 +1184,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 60,
+                "id": 60,
                 "code": "A14",
                 "code_prefix": "A",
                 "text_on_sign": "",
@@ -1204,7 +1204,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 61,
+                "id": 61,
                 "code": "B1",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -1224,7 +1224,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 62,
+                "id": 62,
                 "code": "B9",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -1244,7 +1244,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 63,
+                "id": 63,
                 "code": "A25",
                 "code_prefix": "A",
                 "text_on_sign": "",
@@ -1264,7 +1264,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 64,
+                "id": 64,
                 "code": "F50",
                 "code_prefix": "F",
                 "text_on_sign": "",
@@ -1284,7 +1284,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 65,
+                "id": 65,
                 "code": "B9",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -1304,7 +1304,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 66,
+                "id": 66,
                 "code": "D7",
                 "code_prefix": "D",
                 "text_on_sign": "",
@@ -1324,7 +1324,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 67,
+                "id": 67,
                 "code": "F34b1",
                 "code_prefix": "F",
                 "text_on_sign": "Hansbeke",
@@ -1344,7 +1344,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 68,
+                "id": 68,
                 "code": "F34b1",
                 "code_prefix": "F",
                 "text_on_sign": "Nevele",
@@ -1364,7 +1364,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 69,
+                "id": 69,
                 "code": "F34a",
                 "code_prefix": "F",
                 "text_on_sign": "voetbalterrein Hansbeke",
@@ -1384,7 +1384,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 70,
+                "id": 70,
                 "code": "F34a",
                 "code_prefix": "F",
                 "text_on_sign": "voetbalterrein Hansbeke",
@@ -1404,7 +1404,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 71,
+                "id": 71,
                 "code": "F3a",
                 "code_prefix": "F",
                 "text_on_sign": "Hansbeke, Nevele",
@@ -1424,7 +1424,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 72,
+                "id": 72,
                 "code": "F1a",
                 "code_prefix": "F",
                 "text_on_sign": "Hansbeke, Nevele",
@@ -1444,7 +1444,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 73,
+                "id": 73,
                 "code": "D7",
                 "code_prefix": "D",
                 "text_on_sign": "",
@@ -1464,7 +1464,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 74,
+                "id": 74,
                 "code": "B1",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -1484,7 +1484,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 75,
+                "id": 75,
                 "code": "F50",
                 "code_prefix": "F",
                 "text_on_sign": "",
@@ -1504,7 +1504,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 76,
+                "id": 76,
                 "code": "A41",
                 "code_prefix": "A",
                 "text_on_sign": "",
@@ -1524,7 +1524,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 77,
+                "id": 77,
                 "code": "A25",
                 "code_prefix": "A",
                 "text_on_sign": "",
@@ -1544,7 +1544,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 78,
+                "id": 78,
                 "code": "B9",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -1564,7 +1564,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 79,
+                "id": 79,
                 "code": "F34b1",
                 "code_prefix": "F",
                 "text_on_sign": "Merendree",
@@ -1584,7 +1584,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 80,
+                "id": 80,
                 "code": "F34b1",
                 "code_prefix": "F",
                 "text_on_sign": "Landegem",
@@ -1604,7 +1604,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 81,
+                "id": 81,
                 "code": "F34b1",
                 "code_prefix": "F",
                 "text_on_sign": "Lotenhulle",
@@ -1624,7 +1624,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 82,
+                "id": 82,
                 "code": "F34b1",
                 "code_prefix": "F",
                 "text_on_sign": "Nevele",
@@ -1644,7 +1644,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 83,
+                "id": 83,
                 "code": "F34b1",
                 "code_prefix": "F",
                 "text_on_sign": "Zomergem",
@@ -1664,7 +1664,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 84,
+                "id": 84,
                 "code": "B1",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -1684,7 +1684,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 85,
+                "id": 85,
                 "code": "C3",
                 "code_prefix": "C",
                 "text_on_sign": "",
@@ -1704,7 +1704,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 86,
+                "id": 86,
                 "code": "C3",
                 "code_prefix": "C",
                 "text_on_sign": "",
@@ -1724,7 +1724,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 87,
+                "id": 87,
                 "code": "A41",
                 "code_prefix": "A",
                 "text_on_sign": "",
@@ -1744,7 +1744,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 88,
+                "id": 88,
                 "code": "B17",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -1764,7 +1764,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 89,
+                "id": 89,
                 "code": "D10",
                 "code_prefix": "D",
                 "text_on_sign": "",
@@ -1784,7 +1784,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 90,
+                "id": 90,
                 "code": "B1",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -1804,7 +1804,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 91,
+                "id": 91,
                 "code": "B1",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -1824,7 +1824,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 92,
+                "id": 92,
                 "code": "E9a",
                 "code_prefix": "E",
                 "text_on_sign": "",
@@ -1844,7 +1844,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 93,
+                "id": 93,
                 "code": "D7",
                 "code_prefix": "D",
                 "text_on_sign": "",
@@ -1864,7 +1864,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 94,
+                "id": 94,
                 "code": "D7",
                 "code_prefix": "D",
                 "text_on_sign": "",
@@ -1884,7 +1884,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 95,
+                "id": 95,
                 "code": "B1",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -1904,7 +1904,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 96,
+                "id": 96,
                 "code": "B1",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -1924,7 +1924,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 97,
+                "id": 97,
                 "code": "D7",
                 "code_prefix": "D",
                 "text_on_sign": "",
@@ -1944,7 +1944,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 98,
+                "id": 98,
                 "code": "B1",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -1964,7 +1964,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 99,
+                "id": 99,
                 "code": "D1d",
                 "code_prefix": "D",
                 "text_on_sign": "",
@@ -1984,7 +1984,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 100,
+                "id": 100,
                 "code": "D1d",
                 "code_prefix": "D",
                 "text_on_sign": "",
@@ -2004,7 +2004,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 101,
+                "id": 101,
                 "code": "C43",
                 "code_prefix": "C",
                 "text_on_sign": "70",
@@ -2024,7 +2024,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 102,
+                "id": 102,
                 "code": "A29",
                 "code_prefix": "A",
                 "text_on_sign": "",
@@ -2044,7 +2044,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 103,
+                "id": 103,
                 "code": "B9",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -2064,7 +2064,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 104,
+                "id": 104,
                 "code": "D7",
                 "code_prefix": "D",
                 "text_on_sign": "",
@@ -2084,7 +2084,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 105,
+                "id": 105,
                 "code": "B1",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -2104,7 +2104,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 106,
+                "id": 106,
                 "code": "D1d",
                 "code_prefix": "D",
                 "text_on_sign": "",
@@ -2124,7 +2124,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 107,
+                "id": 107,
                 "code": "D1d",
                 "code_prefix": "D",
                 "text_on_sign": "",
@@ -2144,7 +2144,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 108,
+                "id": 108,
                 "code": "D7",
                 "code_prefix": "D",
                 "text_on_sign": "",
@@ -2164,7 +2164,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 109,
+                "id": 109,
                 "code": "C43",
                 "code_prefix": "C",
                 "text_on_sign": "50",
@@ -2184,7 +2184,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 110,
+                "id": 110,
                 "code": "B9",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -2204,7 +2204,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 111,
+                "id": 111,
                 "code": "B1",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -2224,7 +2224,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 112,
+                "id": 112,
                 "code": "A25",
                 "code_prefix": "A",
                 "text_on_sign": "",
@@ -2244,7 +2244,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 113,
+                "id": 113,
                 "code": "A14",
                 "code_prefix": "A",
                 "text_on_sign": "",
@@ -2264,7 +2264,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 114,
+                "id": 114,
                 "code": "D9",
                 "code_prefix": "D",
                 "text_on_sign": "",
@@ -2284,7 +2284,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 115,
+                "id": 115,
                 "code": "B9",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -2304,7 +2304,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 116,
+                "id": 116,
                 "code": "A25",
                 "code_prefix": "A",
                 "text_on_sign": "",
@@ -2324,7 +2324,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 117,
+                "id": 117,
                 "code": "A14",
                 "code_prefix": "A",
                 "text_on_sign": "",
@@ -2344,7 +2344,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 118,
+                "id": 118,
                 "code": "B3",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -2364,7 +2364,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 119,
+                "id": 119,
                 "code": "B9",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -2384,7 +2384,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 120,
+                "id": 120,
                 "code": "type 5",
                 "code_prefix": "",
                 "text_on_sign": "",
@@ -2404,7 +2404,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 121,
+                "id": 121,
                 "code": "type 5",
                 "code_prefix": "",
                 "text_on_sign": "",
@@ -2424,7 +2424,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 122,
+                "id": 122,
                 "code": "type 5",
                 "code_prefix": "",
                 "text_on_sign": "",
@@ -2444,7 +2444,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 123,
+                "id": 123,
                 "code": "type 5",
                 "code_prefix": "",
                 "text_on_sign": "",
@@ -2464,7 +2464,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 124,
+                "id": 124,
                 "code": "D7",
                 "code_prefix": "D",
                 "text_on_sign": "",
@@ -2484,7 +2484,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 125,
+                "id": 125,
                 "code": "B1",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -2504,7 +2504,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 126,
+                "id": 126,
                 "code": "D7",
                 "code_prefix": "D",
                 "text_on_sign": "",
@@ -2524,7 +2524,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 127,
+                "id": 127,
                 "code": "F34b1",
                 "code_prefix": "F",
                 "text_on_sign": "Hansbeke",
@@ -2544,7 +2544,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 128,
+                "id": 128,
                 "code": "F34b1",
                 "code_prefix": "F",
                 "text_on_sign": "Nevele",
@@ -2564,7 +2564,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 129,
+                "id": 129,
                 "code": "C43",
                 "code_prefix": "C",
                 "text_on_sign": "70",
@@ -2584,7 +2584,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 130,
+                "id": 130,
                 "code": "B9",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -2604,7 +2604,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 131,
+                "id": 131,
                 "code": "B3",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -2624,7 +2624,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 132,
+                "id": 132,
                 "code": "B17",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -2644,7 +2644,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 133,
+                "id": 133,
                 "code": "F27",
                 "code_prefix": "F",
                 "text_on_sign": "Bellem, Aalter, Lotenhulle, TC EENDRACHT",
@@ -2664,7 +2664,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 134,
+                "id": 134,
                 "code": "F29",
                 "code_prefix": "F",
                 "text_on_sign": "E40 - Nevele - Deinze",
@@ -2684,7 +2684,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 135,
+                "id": 135,
                 "code": "F29",
                 "code_prefix": "F",
                 "text_on_sign": "Hansbeke - Zomergem",
@@ -2704,7 +2704,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 136,
+                "id": 136,
                 "code": "F29",
                 "code_prefix": "F",
                 "text_on_sign": "Landegem - Merendree",
@@ -2724,7 +2724,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 137,
+                "id": 137,
                 "code": "F34a",
                 "code_prefix": "F",
                 "text_on_sign": "voetbalterrein Hansbeke",
@@ -2744,7 +2744,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 138,
+                "id": 138,
                 "code": "F29",
                 "code_prefix": "F",
                 "text_on_sign": "Bellem - Aalter",
@@ -2764,7 +2764,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 139,
+                "id": 139,
                 "code": "B17",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -2784,7 +2784,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 140,
+                "id": 140,
                 "code": "E3",
                 "code_prefix": "E",
                 "text_on_sign": "",
@@ -2804,7 +2804,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 141,
+                "id": 141,
                 "code": "E3",
                 "code_prefix": "E",
                 "text_on_sign": "",
@@ -2824,7 +2824,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 142,
+                "id": 142,
                 "code": "B3",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -2844,7 +2844,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 143,
+                "id": 143,
                 "code": "B1",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -2864,7 +2864,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 144,
+                "id": 144,
                 "code": "F29",
                 "code_prefix": "F",
                 "text_on_sign": "Bellem - Aalter",
@@ -2884,7 +2884,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 145,
+                "id": 145,
                 "code": "F45",
                 "code_prefix": "F",
                 "text_on_sign": "",
@@ -2904,7 +2904,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 146,
+                "id": 146,
                 "code": "D1f",
                 "code_prefix": "D",
                 "text_on_sign": "",
@@ -2924,7 +2924,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 147,
+                "id": 147,
                 "code": "B1",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -2944,7 +2944,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 148,
+                "id": 148,
                 "code": "B11",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -2964,7 +2964,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 149,
+                "id": 149,
                 "code": "B9",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -2984,7 +2984,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 150,
+                "id": 150,
                 "code": "B3",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -3004,7 +3004,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 151,
+                "id": 151,
                 "code": "D1d",
                 "code_prefix": "D",
                 "text_on_sign": "",
@@ -3024,7 +3024,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 152,
+                "id": 152,
                 "code": "C1",
                 "code_prefix": "C",
                 "text_on_sign": "",
@@ -3044,7 +3044,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 153,
+                "id": 153,
                 "code": "C1",
                 "code_prefix": "C",
                 "text_on_sign": "",
@@ -3064,7 +3064,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 154,
+                "id": 154,
                 "code": "B1",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -3084,7 +3084,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 155,
+                "id": 155,
                 "code": "B1",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -3104,7 +3104,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 156,
+                "id": 156,
                 "code": "D1d",
                 "code_prefix": "D",
                 "text_on_sign": "",
@@ -3124,7 +3124,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 157,
+                "id": 157,
                 "code": "F31",
                 "code_prefix": "F",
                 "text_on_sign": "E40 Oostende",
@@ -3144,7 +3144,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 158,
+                "id": 158,
                 "code": "F31",
                 "code_prefix": "F",
                 "text_on_sign": "E40 Brugge",
@@ -3164,7 +3164,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 159,
+                "id": 159,
                 "code": "F31",
                 "code_prefix": "F",
                 "text_on_sign": "Oostende E40",
@@ -3184,7 +3184,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 160,
+                "id": 160,
                 "code": "F31",
                 "code_prefix": "F",
                 "text_on_sign": "Brugge E40",
@@ -3204,7 +3204,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 161,
+                "id": 161,
                 "code": "C43",
                 "code_prefix": "C",
                 "text_on_sign": "70",
@@ -3224,7 +3224,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 162,
+                "id": 162,
                 "code": "B9",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -3244,7 +3244,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 163,
+                "id": 163,
                 "code": "F43",
                 "code_prefix": "F",
                 "text_on_sign": "Nevele",
@@ -3264,7 +3264,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 164,
+                "id": 164,
                 "code": "F13",
                 "code_prefix": "F",
                 "text_on_sign": "",
@@ -3284,7 +3284,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 165,
+                "id": 165,
                 "code": "F34a",
                 "code_prefix": "F",
                 "text_on_sign": "Politie",
@@ -3304,7 +3304,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 166,
+                "id": 166,
                 "code": "F33a",
                 "code_prefix": "F",
                 "text_on_sign": "Merendree",
@@ -3324,7 +3324,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 167,
+                "id": 167,
                 "code": "F33a",
                 "code_prefix": "F",
                 "text_on_sign": "Hansbeke",
@@ -3344,7 +3344,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 168,
+                "id": 168,
                 "code": "F29",
                 "code_prefix": "F",
                 "text_on_sign": "Zomergem",
@@ -3364,7 +3364,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 169,
+                "id": 169,
                 "code": "F23a",
                 "code_prefix": "F",
                 "text_on_sign": "N437",
@@ -3384,7 +3384,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 170,
+                "id": 170,
                 "code": "F29",
                 "code_prefix": "F",
                 "text_on_sign": "Nevele",
@@ -3404,7 +3404,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 171,
+                "id": 171,
                 "code": "A14",
                 "code_prefix": "A",
                 "text_on_sign": "",
@@ -3424,7 +3424,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 172,
+                "id": 172,
                 "code": "F34a",
                 "code_prefix": "F",
                 "text_on_sign": "Nevele",
@@ -3444,7 +3444,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 173,
+                "id": 173,
                 "code": "D7",
                 "code_prefix": "D",
                 "text_on_sign": "",
@@ -3464,7 +3464,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 174,
+                "id": 174,
                 "code": "F43",
                 "code_prefix": "F",
                 "text_on_sign": "Hansbeke",
@@ -3484,7 +3484,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 175,
+                "id": 175,
                 "code": "D7",
                 "code_prefix": "D",
                 "text_on_sign": "",
@@ -3504,7 +3504,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 176,
+                "id": 176,
                 "code": "C43",
                 "code_prefix": "C",
                 "text_on_sign": "70",
@@ -3524,7 +3524,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 177,
+                "id": 177,
                 "code": "B9",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -3544,7 +3544,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 178,
+                "id": 178,
                 "code": "B1",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -3564,7 +3564,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 179,
+                "id": 179,
                 "code": "F27",
                 "code_prefix": "F",
                 "text_on_sign": "Brussel, Gent E40, Nevele, Oostende, E40 Brugge",
@@ -3584,7 +3584,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 180,
+                "id": 180,
                 "code": "F13",
                 "code_prefix": "F",
                 "text_on_sign": "",
@@ -3604,7 +3604,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 181,
+                "id": 181,
                 "code": "A29",
                 "code_prefix": "A",
                 "text_on_sign": "",
@@ -3624,7 +3624,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 182,
+                "id": 182,
                 "code": "F23c",
                 "code_prefix": "F",
                 "text_on_sign": "E40",
@@ -3644,7 +3644,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 183,
+                "id": 183,
                 "code": "B9",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -3664,7 +3664,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 184,
+                "id": 184,
                 "code": "",
                 "code_prefix": "",
                 "text_on_sign": "12, Nevele, 400m",
@@ -3684,7 +3684,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 185,
+                "id": 185,
                 "code": "F25",
                 "code_prefix": "F",
                 "text_on_sign": "Brussel, Gent, E40, Nevele, 800m",
@@ -3704,7 +3704,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 186,
+                "id": 186,
                 "code": "F34b1",
                 "code_prefix": "F",
                 "text_on_sign": "Lotenhulle",
@@ -3724,7 +3724,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 187,
+                "id": 187,
                 "code": "F34b1",
                 "code_prefix": "F",
                 "text_on_sign": "Hansbeke",
@@ -3744,7 +3744,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 188,
+                "id": 188,
                 "code": "B3",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -3764,7 +3764,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 189,
+                "id": 189,
                 "code": "F45",
                 "code_prefix": "F",
                 "text_on_sign": "",
@@ -3784,7 +3784,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 190,
+                "id": 190,
                 "code": "F29",
                 "code_prefix": "F",
                 "text_on_sign": "Merendree",
@@ -3804,7 +3804,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 191,
+                "id": 191,
                 "code": "F29",
                 "code_prefix": "F",
                 "text_on_sign": "Landegem",
@@ -3824,7 +3824,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 192,
+                "id": 192,
                 "code": "A29",
                 "code_prefix": "A",
                 "text_on_sign": "",
@@ -3844,7 +3844,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 193,
+                "id": 193,
                 "code": "C3",
                 "code_prefix": "C",
                 "text_on_sign": "",
@@ -3864,7 +3864,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 194,
+                "id": 194,
                 "code": "F1",
                 "code_prefix": "F",
                 "text_on_sign": "Hansbeke, Nevele",
@@ -3884,7 +3884,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 195,
+                "id": 195,
                 "code": "F3",
                 "code_prefix": "F",
                 "text_on_sign": "Hansbeke, Nevele",
@@ -3904,7 +3904,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 196,
+                "id": 196,
                 "code": "C3",
                 "code_prefix": "C",
                 "text_on_sign": "",
@@ -3924,7 +3924,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 197,
+                "id": 197,
                 "code": "A51",
                 "code_prefix": "A",
                 "text_on_sign": "",
@@ -3944,7 +3944,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 198,
+                "id": 198,
                 "code": "A29",
                 "code_prefix": "A",
                 "text_on_sign": "",
@@ -3964,7 +3964,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 199,
+                "id": 199,
                 "code": "B17",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -3984,7 +3984,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 200,
+                "id": 200,
                 "code": "A29",
                 "code_prefix": "A",
                 "text_on_sign": "",
@@ -4004,7 +4004,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 201,
+                "id": 201,
                 "code": "F1",
                 "code_prefix": "F",
                 "text_on_sign": "Hansbeke, Nevele",
@@ -4024,7 +4024,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 202,
+                "id": 202,
                 "code": "F3",
                 "code_prefix": "F",
                 "text_on_sign": "Hansbeke, Nevele",
@@ -4044,7 +4044,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 203,
+                "id": 203,
                 "code": "F29",
                 "code_prefix": "F",
                 "text_on_sign": "Landegem",
@@ -4064,7 +4064,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 204,
+                "id": 204,
                 "code": "F29",
                 "code_prefix": "F",
                 "text_on_sign": "Landegem",
@@ -4084,7 +4084,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 205,
+                "id": 205,
                 "code": "F34b1",
                 "code_prefix": "F",
                 "text_on_sign": "Landegem",
@@ -4104,7 +4104,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 206,
+                "id": 206,
                 "code": "F34b1",
                 "code_prefix": "F",
                 "text_on_sign": "Hansbeke",
@@ -4124,7 +4124,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 207,
+                "id": 207,
                 "code": "B17",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -4144,7 +4144,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 208,
+                "id": 208,
                 "code": "B3",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -4164,7 +4164,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 209,
+                "id": 209,
                 "code": "A51",
                 "code_prefix": "A",
                 "text_on_sign": "",
@@ -4184,7 +4184,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 210,
+                "id": 210,
                 "code": "B17",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -4204,7 +4204,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 211,
+                "id": 211,
                 "code": "A51",
                 "code_prefix": "A",
                 "text_on_sign": "",
@@ -4224,7 +4224,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 212,
+                "id": 212,
                 "code": "F45",
                 "code_prefix": "F",
                 "text_on_sign": "",
@@ -4244,7 +4244,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 213,
+                "id": 213,
                 "code": "B1",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -4264,7 +4264,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 214,
+                "id": 214,
                 "code": "B1",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -4284,7 +4284,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 215,
+                "id": 215,
                 "code": "C21",
                 "code_prefix": "C",
                 "text_on_sign": "2,5t",
@@ -4304,7 +4304,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 216,
+                "id": 216,
                 "code": "F1",
                 "code_prefix": "F",
                 "text_on_sign": "Hansbeke, Nevele",
@@ -4324,7 +4324,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 217,
+                "id": 217,
                 "code": "B17",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -4344,7 +4344,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 218,
+                "id": 218,
                 "code": "C21",
                 "code_prefix": "C",
                 "text_on_sign": "2,5t",
@@ -4364,7 +4364,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 219,
+                "id": 219,
                 "code": "F34b1",
                 "code_prefix": "F",
                 "text_on_sign": "Landegem",
@@ -4384,7 +4384,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 220,
+                "id": 220,
                 "code": "F34b1",
                 "code_prefix": "F",
                 "text_on_sign": "Hansbeke",
@@ -4404,7 +4404,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 221,
+                "id": 221,
                 "code": "F34b1",
                 "code_prefix": "F",
                 "text_on_sign": "Merendree",
@@ -4424,7 +4424,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 222,
+                "id": 222,
                 "code": "F34b1",
                 "code_prefix": "F",
                 "text_on_sign": "Merendree",
@@ -4444,7 +4444,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 223,
+                "id": 223,
                 "code": "B17",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -4464,7 +4464,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 224,
+                "id": 224,
                 "code": "A7b",
                 "code_prefix": "A",
                 "text_on_sign": "",
@@ -4484,7 +4484,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 225,
+                "id": 225,
                 "code": "B17",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -4504,7 +4504,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 226,
+                "id": 226,
                 "code": "",
                 "code_prefix": "",
                 "text_on_sign": "Spelende kinderen",
@@ -4524,7 +4524,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 227,
+                "id": 227,
                 "code": "B17",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -4544,7 +4544,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 228,
+                "id": 228,
                 "code": "F45",
                 "code_prefix": "F",
                 "text_on_sign": "",
@@ -4564,7 +4564,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 229,
+                "id": 229,
                 "code": "",
                 "code_prefix": "",
                 "text_on_sign": "Spelende kinderen",
@@ -4584,7 +4584,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 230,
+                "id": 230,
                 "code": "B17",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -4604,7 +4604,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 231,
+                "id": 231,
                 "code": "A29",
                 "code_prefix": "A",
                 "text_on_sign": "",
@@ -4624,7 +4624,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 232,
+                "id": 232,
                 "code": "B9",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -4644,7 +4644,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 233,
+                "id": 233,
                 "code": "B9",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -4664,7 +4664,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 234,
+                "id": 234,
                 "code": "B1",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -4684,7 +4684,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 235,
+                "id": 235,
                 "code": "F33a",
                 "code_prefix": "F",
                 "text_on_sign": "Merendree",
@@ -4704,7 +4704,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 236,
+                "id": 236,
                 "code": "E9b",
                 "code_prefix": "E",
                 "text_on_sign": "",
@@ -4724,7 +4724,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 237,
+                "id": 237,
                 "code": "B1",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -4744,7 +4744,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 238,
+                "id": 238,
                 "code": "E6",
                 "code_prefix": "E",
                 "text_on_sign": "",
@@ -4764,7 +4764,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 239,
+                "id": 239,
                 "code": "E6",
                 "code_prefix": "E",
                 "text_on_sign": "",
@@ -4784,7 +4784,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 240,
+                "id": 240,
                 "code": "A41",
                 "code_prefix": "A",
                 "text_on_sign": "",
@@ -4804,7 +4804,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 241,
+                "id": 241,
                 "code": "B9",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -4824,7 +4824,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 242,
+                "id": 242,
                 "code": "F31",
                 "code_prefix": "F",
                 "text_on_sign": "E40",
@@ -4844,7 +4844,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 243,
+                "id": 243,
                 "code": "F29",
                 "code_prefix": "F",
                 "text_on_sign": "6 Nevele",
@@ -4864,7 +4864,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 244,
+                "id": 244,
                 "code": "F29",
                 "code_prefix": "F",
                 "text_on_sign": "Zomergem 8",
@@ -4884,7 +4884,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 245,
+                "id": 245,
                 "code": "C21",
                 "code_prefix": "C",
                 "text_on_sign": "3,5t",
@@ -4904,7 +4904,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 246,
+                "id": 246,
                 "code": "F4a",
                 "code_prefix": "F",
                 "text_on_sign": "",
@@ -4924,7 +4924,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 247,
+                "id": 247,
                 "code": "A23",
                 "code_prefix": "A",
                 "text_on_sign": "",
@@ -4944,7 +4944,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 248,
+                "id": 248,
                 "code": "B9",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -4964,7 +4964,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 249,
+                "id": 249,
                 "code": "F29",
                 "code_prefix": "F",
                 "text_on_sign": "Merendree",
@@ -4984,7 +4984,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 250,
+                "id": 250,
                 "code": "F29",
                 "code_prefix": "F",
                 "text_on_sign": "Drongen 10",
@@ -5004,7 +5004,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 251,
+                "id": 251,
                 "code": "B9",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -5024,7 +5024,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 252,
+                "id": 252,
                 "code": "F29",
                 "code_prefix": "F",
                 "text_on_sign": "10 Drongen",
@@ -5044,7 +5044,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 253,
+                "id": 253,
                 "code": "B5",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -5064,7 +5064,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 254,
+                "id": 254,
                 "code": "F4b",
                 "code_prefix": "F",
                 "text_on_sign": "",
@@ -5084,7 +5084,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 255,
+                "id": 255,
                 "code": "C3",
                 "code_prefix": "C",
                 "text_on_sign": "",
@@ -5104,7 +5104,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 256,
+                "id": 256,
                 "code": "E6",
                 "code_prefix": "E",
                 "text_on_sign": "",
@@ -5124,7 +5124,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 257,
+                "id": 257,
                 "code": "C3",
                 "code_prefix": "C",
                 "text_on_sign": "",
@@ -5144,7 +5144,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 258,
+                "id": 258,
                 "code": "B11",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -5164,7 +5164,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 259,
+                "id": 259,
                 "code": "B9",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -5184,7 +5184,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 260,
+                "id": 260,
                 "code": "B1",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -5204,7 +5204,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 261,
+                "id": 261,
                 "code": "F3a",
                 "code_prefix": "F",
                 "text_on_sign": "Hansbeke, Nevele",
@@ -5224,7 +5224,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 262,
+                "id": 262,
                 "code": "F1a",
                 "code_prefix": "F",
                 "text_on_sign": "Hansbeke, Nevele",
@@ -5244,7 +5244,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 263,
+                "id": 263,
                 "code": "C43",
                 "code_prefix": "C",
                 "text_on_sign": "70",
@@ -5264,7 +5264,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 264,
+                "id": 264,
                 "code": "C43",
                 "code_prefix": "C",
                 "text_on_sign": "70",
@@ -5284,7 +5284,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 265,
+                "id": 265,
                 "code": "B9",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -5304,7 +5304,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 266,
+                "id": 266,
                 "code": "B1",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -5324,7 +5324,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 267,
+                "id": 267,
                 "code": "C43",
                 "code_prefix": "C",
                 "text_on_sign": "70",
@@ -5344,7 +5344,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 268,
+                "id": 268,
                 "code": "B9",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -5364,7 +5364,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 269,
+                "id": 269,
                 "code": "C43",
                 "code_prefix": "C",
                 "text_on_sign": "70",
@@ -5384,7 +5384,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 270,
+                "id": 270,
                 "code": "B9",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -5404,7 +5404,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 271,
+                "id": 271,
                 "code": "B1",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -5424,7 +5424,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 272,
+                "id": 272,
                 "code": "C3",
                 "code_prefix": "C",
                 "text_on_sign": "",
@@ -5444,7 +5444,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 273,
+                "id": 273,
                 "code": "C43",
                 "code_prefix": "C",
                 "text_on_sign": "70",
@@ -5464,7 +5464,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 274,
+                "id": 274,
                 "code": "A1a",
                 "code_prefix": "A",
                 "text_on_sign": "",
@@ -5484,7 +5484,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 275,
+                "id": 275,
                 "code": "B9",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -5504,7 +5504,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 276,
+                "id": 276,
                 "code": "B1",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -5524,7 +5524,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 277,
+                "id": 277,
                 "code": "C43",
                 "code_prefix": "C",
                 "text_on_sign": "70",
@@ -5544,7 +5544,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 278,
+                "id": 278,
                 "code": "B9",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -5564,7 +5564,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 279,
+                "id": 279,
                 "code": "type 5",
                 "code_prefix": "",
                 "text_on_sign": "",
@@ -5584,7 +5584,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 280,
+                "id": 280,
                 "code": "B1",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -5604,7 +5604,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 281,
+                "id": 281,
                 "code": "B1",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -5624,7 +5624,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 282,
+                "id": 282,
                 "code": "C43",
                 "code_prefix": "C",
                 "text_on_sign": "70",
@@ -5644,7 +5644,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 283,
+                "id": 283,
                 "code": "B17",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -5664,7 +5664,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 284,
+                "id": 284,
                 "code": "C43",
                 "code_prefix": "C",
                 "text_on_sign": "70",
@@ -5684,7 +5684,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 285,
+                "id": 285,
                 "code": "B3",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -5704,7 +5704,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 286,
+                "id": 286,
                 "code": "B17",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -5724,7 +5724,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 287,
+                "id": 287,
                 "code": "C43",
                 "code_prefix": "C",
                 "text_on_sign": "70",
@@ -5744,7 +5744,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 288,
+                "id": 288,
                 "code": "B17",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -5764,7 +5764,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 289,
+                "id": 289,
                 "code": "A41",
                 "code_prefix": "A",
                 "text_on_sign": "",
@@ -5784,7 +5784,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 290,
+                "id": 290,
                 "code": "B1",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -5804,7 +5804,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 291,
+                "id": 291,
                 "code": "A1c",
                 "code_prefix": "A",
                 "text_on_sign": "",
@@ -5824,7 +5824,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 292,
+                "id": 292,
                 "code": "C43",
                 "code_prefix": "C",
                 "text_on_sign": "70",
@@ -5844,7 +5844,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 293,
+                "id": 293,
                 "code": "B9",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -5864,7 +5864,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 294,
+                "id": 294,
                 "code": "C43",
                 "code_prefix": "C",
                 "text_on_sign": "70",
@@ -5884,7 +5884,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 295,
+                "id": 295,
                 "code": "B9",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -5904,7 +5904,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 296,
+                "id": 296,
                 "code": "C43",
                 "code_prefix": "C",
                 "text_on_sign": "70",
@@ -5924,7 +5924,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 297,
+                "id": 297,
                 "code": "B9",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -5944,7 +5944,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 298,
+                "id": 298,
                 "code": "B1",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -5964,7 +5964,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 299,
+                "id": 299,
                 "code": "C43",
                 "code_prefix": "C",
                 "text_on_sign": "70",
@@ -5984,7 +5984,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 300,
+                "id": 300,
                 "code": "B9",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -6004,7 +6004,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 301,
+                "id": 301,
                 "code": "F43",
                 "code_prefix": "F",
                 "text_on_sign": "Hansbeke",
@@ -6024,7 +6024,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 302,
+                "id": 302,
                 "code": "A1b",
                 "code_prefix": "A",
                 "text_on_sign": "",
@@ -6044,7 +6044,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 303,
+                "id": 303,
                 "code": "type 5",
                 "code_prefix": "",
                 "text_on_sign": "",
@@ -6064,7 +6064,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 304,
+                "id": 304,
                 "code": "C3",
                 "code_prefix": "C",
                 "text_on_sign": "",
@@ -6084,7 +6084,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 305,
+                "id": 305,
                 "code": "A41",
                 "code_prefix": "A",
                 "text_on_sign": "",
@@ -6104,7 +6104,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 306,
+                "id": 306,
                 "code": "F3",
                 "code_prefix": "F",
                 "text_on_sign": "Hansbeke, Nevele",
@@ -6124,7 +6124,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 307,
+                "id": 307,
                 "code": "B1",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -6144,7 +6144,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 308,
+                "id": 308,
                 "code": "B1",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -6164,7 +6164,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 309,
+                "id": 309,
                 "code": "F3",
                 "code_prefix": "F",
                 "text_on_sign": "Hansbeke, Nevele",
@@ -6184,7 +6184,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 310,
+                "id": 310,
                 "code": "C3",
                 "code_prefix": "C",
                 "text_on_sign": "",
@@ -6204,7 +6204,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 311,
+                "id": 311,
                 "code": "A23",
                 "code_prefix": "A",
                 "text_on_sign": "",
@@ -6224,7 +6224,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 312,
+                "id": 312,
                 "code": "F4a",
                 "code_prefix": "F",
                 "text_on_sign": "",
@@ -6244,7 +6244,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 313,
+                "id": 313,
                 "code": "F4b",
                 "code_prefix": "F",
                 "text_on_sign": "",
@@ -6264,7 +6264,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 314,
+                "id": 314,
                 "code": "B1",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -6284,7 +6284,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 315,
+                "id": 315,
                 "code": "C21",
                 "code_prefix": "C",
                 "text_on_sign": "3,5t",
@@ -6304,7 +6304,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 316,
+                "id": 316,
                 "code": "C3",
                 "code_prefix": "C",
                 "text_on_sign": "",
@@ -6324,7 +6324,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 317,
+                "id": 317,
                 "code": "A41",
                 "code_prefix": "A",
                 "text_on_sign": "",
@@ -6344,7 +6344,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 318,
+                "id": 318,
                 "code": "E3",
                 "code_prefix": "E",
                 "text_on_sign": "",
@@ -6364,7 +6364,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 319,
+                "id": 319,
                 "code": "E3",
                 "code_prefix": "E",
                 "text_on_sign": "",
@@ -6384,7 +6384,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 320,
+                "id": 320,
                 "code": "B1",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -6404,7 +6404,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 321,
+                "id": 321,
                 "code": "F49",
                 "code_prefix": "F",
                 "text_on_sign": "",
@@ -6424,7 +6424,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 322,
+                "id": 322,
                 "code": "F49",
                 "code_prefix": "F",
                 "text_on_sign": "",
@@ -6444,7 +6444,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 323,
+                "id": 323,
                 "code": "F1",
                 "code_prefix": "F",
                 "text_on_sign": "Hansbeke, Nevele",
@@ -6464,7 +6464,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 324,
+                "id": 324,
                 "code": "B9",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -6484,7 +6484,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 325,
+                "id": 325,
                 "code": "B1",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -6504,7 +6504,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 326,
+                "id": 326,
                 "code": "B9",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -6524,7 +6524,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 327,
+                "id": 327,
                 "code": "F49",
                 "code_prefix": "F",
                 "text_on_sign": "",
@@ -6544,7 +6544,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 328,
+                "id": 328,
                 "code": "B9",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -6564,7 +6564,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 329,
+                "id": 329,
                 "code": "F34b1",
                 "code_prefix": "F",
                 "text_on_sign": "Merendree",
@@ -6584,7 +6584,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 330,
+                "id": 330,
                 "code": "F34b1",
                 "code_prefix": "F",
                 "text_on_sign": "Landegem",
@@ -6604,7 +6604,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 331,
+                "id": 331,
                 "code": "F34b1",
                 "code_prefix": "F",
                 "text_on_sign": "Lotenhulle",
@@ -6624,7 +6624,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 332,
+                "id": 332,
                 "code": "F34b1",
                 "code_prefix": "F",
                 "text_on_sign": "Nevele",
@@ -6644,7 +6644,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 333,
+                "id": 333,
                 "code": "F34b1",
                 "code_prefix": "F",
                 "text_on_sign": "Zomergem",
@@ -6664,7 +6664,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 334,
+                "id": 334,
                 "code": "F4a",
                 "code_prefix": "F",
                 "text_on_sign": "",
@@ -6684,7 +6684,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 335,
+                "id": 335,
                 "code": "F4b",
                 "code_prefix": "F",
                 "text_on_sign": "",
@@ -6704,7 +6704,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 336,
+                "id": 336,
                 "code": "C3",
                 "code_prefix": "C",
                 "text_on_sign": "",
@@ -6724,7 +6724,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 337,
+                "id": 337,
                 "code": "F49",
                 "code_prefix": "F",
                 "text_on_sign": "",
@@ -6744,7 +6744,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 338,
+                "id": 338,
                 "code": "B9",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -6764,7 +6764,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 339,
+                "id": 339,
                 "code": "F34b1",
                 "code_prefix": "F",
                 "text_on_sign": "Zomergem",
@@ -6784,7 +6784,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 340,
+                "id": 340,
                 "code": "F34b1",
                 "code_prefix": "F",
                 "text_on_sign": "Nevele",
@@ -6804,7 +6804,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 341,
+                "id": 341,
                 "code": "F34b1",
                 "code_prefix": "F",
                 "text_on_sign": "Merendree",
@@ -6824,7 +6824,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 342,
+                "id": 342,
                 "code": "F34b1",
                 "code_prefix": "F",
                 "text_on_sign": "Landegem",
@@ -6844,7 +6844,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 343,
+                "id": 343,
                 "code": "F34b1",
                 "code_prefix": "F",
                 "text_on_sign": "Bellem",
@@ -6864,7 +6864,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 344,
+                "id": 344,
                 "code": "F34b1",
                 "code_prefix": "F",
                 "text_on_sign": "Aalter",
@@ -6884,7 +6884,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 345,
+                "id": 345,
                 "code": "F34b1",
                 "code_prefix": "F",
                 "text_on_sign": "Bellem",
@@ -6904,7 +6904,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 346,
+                "id": 346,
                 "code": "F34b1",
                 "code_prefix": "F",
                 "text_on_sign": "Aalter",
@@ -6924,7 +6924,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 347,
+                "id": 347,
                 "code": "F4b",
                 "code_prefix": "F",
                 "text_on_sign": "",
@@ -6944,7 +6944,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 348,
+                "id": 348,
                 "code": "B9",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -6964,7 +6964,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 349,
+                "id": 349,
                 "code": "F4a",
                 "code_prefix": "F",
                 "text_on_sign": "",
@@ -6984,7 +6984,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 350,
+                "id": 350,
                 "code": "A23",
                 "code_prefix": "A",
                 "text_on_sign": "",
@@ -7004,7 +7004,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 351,
+                "id": 351,
                 "code": "B9",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -7024,7 +7024,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 352,
+                "id": 352,
                 "code": "",
                 "code_prefix": "",
                 "text_on_sign": "Spelende kinderen",
@@ -7044,7 +7044,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 353,
+                "id": 353,
                 "code": "B1",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -7064,7 +7064,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 354,
+                "id": 354,
                 "code": "F3a",
                 "code_prefix": "F",
                 "text_on_sign": "Hansbeke, Nevele",
@@ -7084,7 +7084,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 355,
+                "id": 355,
                 "code": "type 5",
                 "code_prefix": "",
                 "text_on_sign": "",
@@ -7104,7 +7104,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 356,
+                "id": 356,
                 "code": "D7",
                 "code_prefix": "D",
                 "text_on_sign": "",
@@ -7124,7 +7124,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 357,
+                "id": 357,
                 "code": "B9",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -7144,7 +7144,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 358,
+                "id": 358,
                 "code": "F1a",
                 "code_prefix": "F",
                 "text_on_sign": "Hansbeke, Nevele",
@@ -7164,7 +7164,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 359,
+                "id": 359,
                 "code": "D7",
                 "code_prefix": "D",
                 "text_on_sign": "",
@@ -7184,7 +7184,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 360,
+                "id": 360,
                 "code": "C43",
                 "code_prefix": "C",
                 "text_on_sign": "70",
@@ -7204,7 +7204,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 361,
+                "id": 361,
                 "code": "A1a",
                 "code_prefix": "A",
                 "text_on_sign": "",
@@ -7224,7 +7224,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 362,
+                "id": 362,
                 "code": "B9",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -7244,7 +7244,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 363,
+                "id": 363,
                 "code": "A25",
                 "code_prefix": "A",
                 "text_on_sign": "",
@@ -7264,7 +7264,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 364,
+                "id": 364,
                 "code": "type 5",
                 "code_prefix": "",
                 "text_on_sign": "",
@@ -7284,7 +7284,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 365,
+                "id": 365,
                 "code": "A1b",
                 "code_prefix": "A",
                 "text_on_sign": "",
@@ -7304,7 +7304,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 366,
+                "id": 366,
                 "code": "A25",
                 "code_prefix": "A",
                 "text_on_sign": "",
@@ -7324,7 +7324,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 367,
+                "id": 367,
                 "code": "B1",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -7344,7 +7344,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 368,
+                "id": 368,
                 "code": "C21",
                 "code_prefix": "C",
                 "text_on_sign": "5 t",
@@ -7364,7 +7364,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 369,
+                "id": 369,
                 "code": "A29",
                 "code_prefix": "A",
                 "text_on_sign": "",
@@ -7384,7 +7384,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 370,
+                "id": 370,
                 "code": "B3",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -7404,7 +7404,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 371,
+                "id": 371,
                 "code": "A29",
                 "code_prefix": "A",
                 "text_on_sign": "",
@@ -7424,7 +7424,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 372,
+                "id": 372,
                 "code": "C5/7",
                 "code_prefix": "C",
                 "text_on_sign": "",
@@ -7444,7 +7444,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 373,
+                "id": 373,
                 "code": "type 5",
                 "code_prefix": "",
                 "text_on_sign": "",
@@ -7464,7 +7464,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 374,
+                "id": 374,
                 "code": "F34b2",
                 "code_prefix": "F",
                 "text_on_sign": "Gent 13km",
@@ -7484,7 +7484,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 375,
+                "id": 375,
                 "code": "C3",
                 "code_prefix": "C",
                 "text_on_sign": "",
@@ -7504,7 +7504,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 376,
+                "id": 376,
                 "code": "F43",
                 "code_prefix": "F",
                 "text_on_sign": "Hansbeke",
@@ -7524,7 +7524,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 377,
+                "id": 377,
                 "code": "F43",
                 "code_prefix": "F",
                 "text_on_sign": "Bellem",
@@ -7544,7 +7544,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 378,
+                "id": 378,
                 "code": "A51",
                 "code_prefix": "A",
                 "text_on_sign": "",
@@ -7564,7 +7564,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 379,
+                "id": 379,
                 "code": "D7",
                 "code_prefix": "D",
                 "text_on_sign": "",
@@ -7584,7 +7584,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 380,
+                "id": 380,
                 "code": "C43",
                 "code_prefix": "C",
                 "text_on_sign": "",
@@ -7604,7 +7604,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 381,
+                "id": 381,
                 "code": "B9",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -7624,7 +7624,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 382,
+                "id": 382,
                 "code": "B1",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -7644,7 +7644,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 383,
+                "id": 383,
                 "code": "A1d",
                 "code_prefix": "A",
                 "text_on_sign": "",
@@ -7664,7 +7664,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 384,
+                "id": 384,
                 "code": "A13",
                 "code_prefix": "A",
                 "text_on_sign": "",
@@ -7684,7 +7684,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 385,
+                "id": 385,
                 "code": "C43",
                 "code_prefix": "C",
                 "text_on_sign": "",
@@ -7704,7 +7704,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 386,
+                "id": 386,
                 "code": "B9",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -7724,7 +7724,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 387,
+                "id": 387,
                 "code": "D7",
                 "code_prefix": "D",
                 "text_on_sign": "",
@@ -7744,7 +7744,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 388,
+                "id": 388,
                 "code": "C43",
                 "code_prefix": "C",
                 "text_on_sign": "70",
@@ -7764,7 +7764,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 389,
+                "id": 389,
                 "code": "B9",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -7784,7 +7784,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 390,
+                "id": 390,
                 "code": "B1",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -7804,7 +7804,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 391,
+                "id": 391,
                 "code": "D7",
                 "code_prefix": "D",
                 "text_on_sign": "",
@@ -7824,7 +7824,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 392,
+                "id": 392,
                 "code": "C43",
                 "code_prefix": "C",
                 "text_on_sign": "70",
@@ -7844,7 +7844,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 393,
+                "id": 393,
                 "code": "B9",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -7864,7 +7864,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 394,
+                "id": 394,
                 "code": "D7",
                 "code_prefix": "D",
                 "text_on_sign": "",
@@ -7884,7 +7884,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 395,
+                "id": 395,
                 "code": "C43",
                 "code_prefix": "C",
                 "text_on_sign": "70",
@@ -7904,7 +7904,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 396,
+                "id": 396,
                 "code": "B9",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -7924,7 +7924,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 397,
+                "id": 397,
                 "code": "A1a",
                 "code_prefix": "A",
                 "text_on_sign": "",
@@ -7944,7 +7944,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 398,
+                "id": 398,
                 "code": "A1b",
                 "code_prefix": "A",
                 "text_on_sign": "",
@@ -7964,7 +7964,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 399,
+                "id": 399,
                 "code": "F45",
                 "code_prefix": "F",
                 "text_on_sign": "",
@@ -7984,7 +7984,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 400,
+                "id": 400,
                 "code": "B3",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -8004,7 +8004,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 401,
+                "id": 401,
                 "code": "D1b",
                 "code_prefix": "D",
                 "text_on_sign": "",
@@ -8024,7 +8024,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 402,
+                "id": 402,
                 "code": "B1",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -8044,7 +8044,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 403,
+                "id": 403,
                 "code": "C1",
                 "code_prefix": "C",
                 "text_on_sign": "",
@@ -8064,7 +8064,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 404,
+                "id": 404,
                 "code": "B1",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -8084,7 +8084,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 405,
+                "id": 405,
                 "code": "D7",
                 "code_prefix": "D",
                 "text_on_sign": "",
@@ -8104,7 +8104,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 406,
+                "id": 406,
                 "code": "C43",
                 "code_prefix": "C",
                 "text_on_sign": "",
@@ -8124,7 +8124,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 407,
+                "id": 407,
                 "code": "B9",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -8144,7 +8144,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 408,
+                "id": 408,
                 "code": "D7",
                 "code_prefix": "D",
                 "text_on_sign": "",
@@ -8164,7 +8164,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 409,
+                "id": 409,
                 "code": "C43",
                 "code_prefix": "C",
                 "text_on_sign": "",
@@ -8184,7 +8184,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 410,
+                "id": 410,
                 "code": "B9",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -8204,7 +8204,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 411,
+                "id": 411,
                 "code": "A51",
                 "code_prefix": "A",
                 "text_on_sign": "",
@@ -8224,7 +8224,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 412,
+                "id": 412,
                 "code": "A15",
                 "code_prefix": "A",
                 "text_on_sign": "",
@@ -8244,7 +8244,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 413,
+                "id": 413,
                 "code": "D7",
                 "code_prefix": "D",
                 "text_on_sign": "",
@@ -8264,7 +8264,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 414,
+                "id": 414,
                 "code": "C43",
                 "code_prefix": "C",
                 "text_on_sign": "",
@@ -8284,7 +8284,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 415,
+                "id": 415,
                 "code": "B9",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -8304,7 +8304,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 416,
+                "id": 416,
                 "code": "D7",
                 "code_prefix": "D",
                 "text_on_sign": "",
@@ -8324,7 +8324,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 417,
+                "id": 417,
                 "code": "C43",
                 "code_prefix": "C",
                 "text_on_sign": "",
@@ -8344,7 +8344,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 418,
+                "id": 418,
                 "code": "B9",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -8364,7 +8364,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 419,
+                "id": 419,
                 "code": "B1",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -8384,7 +8384,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 420,
+                "id": 420,
                 "code": "",
                 "code_prefix": "",
                 "text_on_sign": "Ten strengste verboden te storten",
@@ -8404,7 +8404,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 421,
+                "id": 421,
                 "code": "",
                 "code_prefix": "",
                 "text_on_sign": "Ten strengste verboden te storten",
@@ -8424,7 +8424,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 422,
+                "id": 422,
                 "code": "B1",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -8444,7 +8444,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 423,
+                "id": 423,
                 "code": "D7",
                 "code_prefix": "D",
                 "text_on_sign": "",
@@ -8464,7 +8464,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 424,
+                "id": 424,
                 "code": "C43",
                 "code_prefix": "C",
                 "text_on_sign": "70",
@@ -8484,7 +8484,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 425,
+                "id": 425,
                 "code": "B9",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -8504,7 +8504,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 426,
+                "id": 426,
                 "code": "D7",
                 "code_prefix": "D",
                 "text_on_sign": "",
@@ -8524,7 +8524,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 427,
+                "id": 427,
                 "code": "C43",
                 "code_prefix": "C",
                 "text_on_sign": "70",
@@ -8544,7 +8544,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 428,
+                "id": 428,
                 "code": "B9",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -8564,7 +8564,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 429,
+                "id": 429,
                 "code": "B1",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -8584,7 +8584,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 430,
+                "id": 430,
                 "code": "F29",
                 "code_prefix": "F",
                 "text_on_sign": "Hansbeke 1",
@@ -8604,7 +8604,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 431,
+                "id": 431,
                 "code": "F29",
                 "code_prefix": "F",
                 "text_on_sign": "5 Zomergem",
@@ -8624,7 +8624,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 432,
+                "id": 432,
                 "code": "F34b1",
                 "code_prefix": "F",
                 "text_on_sign": "Zomergem",
@@ -8644,7 +8644,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 433,
+                "id": 433,
                 "code": "F34b1",
                 "code_prefix": "F",
                 "text_on_sign": "Hansbeke",
@@ -8664,7 +8664,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 434,
+                "id": 434,
                 "code": "D1d",
                 "code_prefix": "D",
                 "text_on_sign": "",
@@ -8684,7 +8684,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 435,
+                "id": 435,
                 "code": "D1d",
                 "code_prefix": "D",
                 "text_on_sign": "",
@@ -8704,7 +8704,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 436,
+                "id": 436,
                 "code": "F29",
                 "code_prefix": "F",
                 "text_on_sign": "3 Bellem",
@@ -8724,7 +8724,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 437,
+                "id": 437,
                 "code": "F29",
                 "code_prefix": "F",
                 "text_on_sign": "7 Aalter",
@@ -8744,7 +8744,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 438,
+                "id": 438,
                 "code": "F29",
                 "code_prefix": "F",
                 "text_on_sign": "Bellem 3",
@@ -8764,7 +8764,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 439,
+                "id": 439,
                 "code": "B5",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -8784,7 +8784,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 440,
+                "id": 440,
                 "code": "C43",
                 "code_prefix": "C",
                 "text_on_sign": "70",
@@ -8804,7 +8804,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 441,
+                "id": 441,
                 "code": "B7",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -8824,7 +8824,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 442,
+                "id": 442,
                 "code": "A27",
                 "code_prefix": "A",
                 "text_on_sign": "",
@@ -8844,7 +8844,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 443,
+                "id": 443,
                 "code": "B15c",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -8864,7 +8864,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 444,
+                "id": 444,
                 "code": "B1",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -8884,7 +8884,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 445,
+                "id": 445,
                 "code": "C43",
                 "code_prefix": "C",
                 "text_on_sign": "70",
@@ -8904,7 +8904,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 446,
+                "id": 446,
                 "code": "C43",
                 "code_prefix": "C",
                 "text_on_sign": "70",
@@ -8924,7 +8924,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 447,
+                "id": 447,
                 "code": "C3",
                 "code_prefix": "C",
                 "text_on_sign": "",
@@ -8944,7 +8944,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 448,
+                "id": 448,
                 "code": "B1",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -8964,7 +8964,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 449,
+                "id": 449,
                 "code": "",
                 "code_prefix": "C",
                 "text_on_sign": "Uitgezonderd dienst kerkhof",
@@ -8984,7 +8984,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 450,
+                "id": 450,
                 "code": "B9",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -9004,7 +9004,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 451,
+                "id": 451,
                 "code": "B9",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -9024,7 +9024,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 452,
+                "id": 452,
                 "code": "D7",
                 "code_prefix": "D",
                 "text_on_sign": "",
@@ -9044,7 +9044,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 453,
+                "id": 453,
                 "code": "B9",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -9064,7 +9064,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 454,
+                "id": 454,
                 "code": "B15f",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -9084,7 +9084,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 455,
+                "id": 455,
                 "code": "A1d",
                 "code_prefix": "A",
                 "text_on_sign": "",
@@ -9104,7 +9104,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 456,
+                "id": 456,
                 "code": "A1d",
                 "code_prefix": "A",
                 "text_on_sign": "",
@@ -9124,7 +9124,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 457,
+                "id": 457,
                 "code": "B15c",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -9144,7 +9144,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 458,
+                "id": 458,
                 "code": "F43",
                 "code_prefix": "F",
                 "text_on_sign": "Hansbeke, Nevele",
@@ -9164,7 +9164,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 459,
+                "id": 459,
                 "code": "C43",
                 "code_prefix": "C",
                 "text_on_sign": "70",
@@ -9184,7 +9184,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 460,
+                "id": 460,
                 "code": "C45",
                 "code_prefix": "C",
                 "text_on_sign": "70",
@@ -9204,7 +9204,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 461,
+                "id": 461,
                 "code": "F45",
                 "code_prefix": "F",
                 "text_on_sign": "",
@@ -9224,7 +9224,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 462,
+                "id": 462,
                 "code": "F34b1",
                 "code_prefix": "F",
                 "text_on_sign": "Hansbeke",
@@ -9244,7 +9244,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 463,
+                "id": 463,
                 "code": "F34b1",
                 "code_prefix": "F",
                 "text_on_sign": "Nevele",
@@ -9264,7 +9264,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 464,
+                "id": 464,
                 "code": "F34b1",
                 "code_prefix": "F",
                 "text_on_sign": "Aalter",
@@ -9284,7 +9284,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 465,
+                "id": 465,
                 "code": "F34b1",
                 "code_prefix": "F",
                 "text_on_sign": "Bellem",
@@ -9304,7 +9304,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 466,
+                "id": 466,
                 "code": "B1",
                 "code_prefix": "B",
                 "text_on_sign": "",
@@ -9324,7 +9324,7 @@
         {
             "type": "Feature",
             "properties": {
-                "cartodb_id": 467,
+                "id": 467,
                 "code": "F1",
                 "code_prefix": "F",
                 "text_on_sign": "Hansbeke, Nevele",
