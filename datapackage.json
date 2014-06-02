@@ -28,6 +28,7 @@
             "web": "http://peterdesmet.com"        
         }
     ],
+    "base": "https://github.com/peterdesmet/traffic-signs-hansbeke/tree/master/",
     "resources": [
         {
             "path": "data/traffic_signs_hansbeke.csv",
