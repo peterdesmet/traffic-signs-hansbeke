@@ -2,7 +2,7 @@
 
 ## Description
 
-This geospatial dataset contains all traffic signs of [Hansbeke](https://en.wikipedia.org/wiki/Nevele), a small village in the municipality of Nevele, Belgium. I [originally recorded these in CartoDB](http://cdb.io/15m1c5z), by using Google Street View and walking around.
+This geospatial dataset contains all traffic signs of [Hansbeke](https://en.wikipedia.org/wiki/Nevele), a small village in the municipality of Nevele, Belgium. I recorded these by using Google Street View and walking around.
 
 ## Rationale
 
@@ -18,7 +18,7 @@ This repository is a [Data Package](http://dataprotocols.org/data-packages/). It
 2. [datapackage.json](datapackage.json): a **metadata** file describing the dataset, including the license and field definitions.
 3. Additional files.
 
-The dataset was originally created using [CartoDB](http://cartodb.com), but is now maintained and versioned on [GitHub](https://github.com/peterdesmet/traffic-signs-hansbeke). An older version of the dataset is [still accessible on CartoDB](http://cdb.io/15m1c5z) and can be downloaded in additional formats.
+The dataset was originally created using CartoDB, but is now maintained and versioned on [GitHub](https://github.com/peterdesmet/traffic-signs-hansbeke). An older version of the dataset is [still accessible on CartoDB](http://cdb.io/15m1c5z) and can be downloaded in additional formats.
 
 ## Licence
 
