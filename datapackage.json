@@ -32,7 +32,7 @@
     "resources": [
         {
             "path": "data/traffic_signs_hansbeke.csv",
-            "name": "traffic_signs_hansbeke.csv",
+            "name": "traffic_signs_hansbeke",
             "format": "csv",
             "schema": {
                 "fields": [
