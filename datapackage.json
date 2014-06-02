@@ -32,7 +32,7 @@
     "resources": [
         {
             "path": "data/traffic-signs-hansbeke.geojson",
-            "name": "traffic-signs-hansbeke-as-geojson",
+            "name": "traffic-signs-hansbeke",
             "format": "geojson",
             "schema": {
                 "properties": [
