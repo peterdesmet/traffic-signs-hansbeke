@@ -34,7 +34,7 @@
             "path": "data/traffic-signs-hansbeke.geojson",
             "name": "traffic-signs-hansbeke",
             "format": "geojson",
-            "mediatype": "application/vnd.geo+json",
+            "mediatype": "application/json",
             "schema": {
                 "properties": [
                     {
